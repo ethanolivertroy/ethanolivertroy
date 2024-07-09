@@ -1,16 +1,11 @@
 <p align="center">
-<img src="https://user-images.githubusercontent.com/63926014/209046028-a851de73-fcf5-4cf3-a7bd-297148f5d986.png">
 Hey, I'm E.T. I'm a cybersecurity consultant with experience & interests in security compliance, cloud security, and penetration testing. <br>
   <img src="https://user-images.githubusercontent.com/63926014/235801128-0e5d0e65-f8d7-459a-a873-10366cf6d72d.svg"> <br>
   <a href="https://app.hackthebox.com/profile/339226"> <img src="https://www.hackthebox.com/badge/image/339226"></a>
-</p>
-
-
-
- 
+  </p>
 
 <h2>🔗 Links</h2>
-- https://ethantroy.com/ - Personal Blog <br>
+- https://ethantroy.com/ - Common Place Book <br>
 - https://hacks.ethantroy.com/ - Anything hacking realted, Hack The Box, Try Hack Me, Security Related Blogs <br>
 - https://medium.com/@ethanolivertroy - My medium page; a mix of cybersecurity and fitness/nutrition <br>
 - https://www.youtube.com/@ethanolivertroy - Youtube Channel <br>
