@@ -1,6 +1,10 @@
 <p align="center">
 Hey, I'm E.T. I'm a cybersecurity consultant with experience & interests in security compliance, cloud security, and penetration testing. <br>
   <img src="https://user-images.githubusercontent.com/63926014/235801128-0e5d0e65-f8d7-459a-a873-10366cf6d72d.svg"> <br>
+  
+![Zero-Point Security - Red Team Operator - 2024-09-09 (1)](https://github.com/user-attachments/assets/2bd93636-4355-49a1-8e54-0a390ba52dd5)
+
+  
   <a href="https://app.hackthebox.com/profile/339226"> <img src="https://www.hackthebox.com/badge/image/339226"></a>
   </p>
 
