@@ -1,7 +1,7 @@
 <p align="center">
 Hey, I'm E.T. I'm a cybersecurity consultant with experience & interests in security compliance, cloud security, and penetration testing. <br>
 
-![badges](https://github.com/user-attachments/assets/eec7dfe0-a295-43cf-9742-567db24940d5)
+![certs](https://github.com/user-attachments/assets/75547c67-eb6b-4266-80f8-138a5994fb11)
 
 <a href="https://app.hackthebox.com/profile/339226"> <img src="https://www.hackthebox.com/badge/image/339226"></a>
   </p>
@@ -51,7 +51,7 @@ Hey, I'm E.T. I'm a cybersecurity consultant with experience & interests in secu
     <span style="display:block">My Cyber Dictionary</span>
   </a>
 </p>
-
+<!--
 <p align="center">
   <a href="https://learntocloud.guide/">
     <img src="https://github.com/ethanolivertroy/ethanolivertroy/assets/63926014/eb162562-d581-40c1-937b-907833530fe0" width="700">
@@ -59,8 +59,7 @@ Hey, I'm E.T. I'm a cybersecurity consultant with experience & interests in secu
     <span style="display:block">Learn to Cloud Guide: Cloud Security Projects</span>
   </a>
 </p>
-
-
+-->
 
 
 
