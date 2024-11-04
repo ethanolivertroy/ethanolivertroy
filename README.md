@@ -11,7 +11,7 @@ Hey, I'm E.T. I'm a cybersecurity consultant with experience & interests in secu
 - https://hacks.ethantroy.com/ - Anything hacking realted, Hack The Box, Try Hack Me, Security Related Blogs <br>
 - https://medium.com/@ethanolivertroy - My medium page; a mix of cybersecurity and fitness/nutrition <br>
 - https://www.youtube.com/@ethanolivertroy - Youtube Channel <br>
-- https://mycyberdictionary.com/ - Just like it sounds, I dumped my cyber brain out to the public
+- https://hackidle.com/ 
   
 <h2>🧪 Projects</h2>
 
