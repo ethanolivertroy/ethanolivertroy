@@ -7,10 +7,8 @@ Hey, I'm E.T. I'm a cybersecurity consultant with experience & interests in secu
   </p>
 
 <h2>🔗 Links</h2>
-- https://ethantroy.com/ - Common Place Book <br>
 - https://hacks.ethantroy.com/ - Anything hacking realted, Hack The Box, Try Hack Me, Security Related Blogs <br>
 - https://medium.com/@ethanolivertroy - My medium page; a mix of cybersecurity and fitness/nutrition <br>
-- https://www.youtube.com/@ethanolivertroy - Youtube Channel <br>
 - https://hackidle.com/ 
   
 <h2>🧪 Projects</h2>
