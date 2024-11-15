@@ -49,7 +49,7 @@ Hey, I'm E.T. I'm a cybersecurity consultant with experience & interests in secu
     <span style="display:block">My Cyber Dictionary</span>
   </a>
 </p>
-<!--
+
 <p align="center">
   <a href="https://learntocloud.guide/">
     <img src="https://github.com/ethanolivertroy/ethanolivertroy/assets/63926014/eb162562-d581-40c1-937b-907833530fe0" width="700">
@@ -57,7 +57,7 @@ Hey, I'm E.T. I'm a cybersecurity consultant with experience & interests in secu
     <span style="display:block">Learn to Cloud Guide: Cloud Security Projects</span>
   </a>
 </p>
--->
+
 
 
 
