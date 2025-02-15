@@ -1,6 +1,5 @@
 <p align="center">
-Hey, I'm E.T. I'm a cybersecurity consultant with experience & interests in security compliance, cloud security, and penetration testing. <br>
-
+Hey, I'm E.T.
 
 <h2>🔗 Links</h2>
 - https://medium.com/@ethanolivertroy - My medium page; a mix of cybersecurity and fitness/nutrition <br>
