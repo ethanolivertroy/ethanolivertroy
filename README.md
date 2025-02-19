@@ -1,12 +1,18 @@
 <p align="center">
 Hey, I'm E.T.
 
-<h2>🔗 Links</h2>
-- https://medium.com/@ethanolivertroy - My medium page; a mix of cybersecurity and fitness/nutrition <br>
-- https://hackidle.com/
+### Links
+
+- Digital Garden: https://hackidle.com/
+- Deprecated: https://hacks.ethantroy.com/ - my old Jekyll security blog, will migrate everything to this vault shortly 
+- Github: https://github.com/ethanolivertroy
+- Gitlab: https://gitlab.com/ethanolivertroy
+- HuggingFace: https://huggingface.co/ethanolivertroy
+- Google Developer: https://g.dev/ethantroy
+- Medium: https://medium.com/@ethanolivertroy
 
 
-<h2>🔗 Certs </h2>
+### Certs
 
 ![1](https://github.com/user-attachments/assets/c9932529-2d61-4dc4-96b1-9d3c5e263c85)
 ![2](https://github.com/user-attachments/assets/f9aada99-27e5-43f6-84fe-a8fdf8f63508)
