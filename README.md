@@ -7,6 +7,7 @@ Hey, I'm E.T.
 - Github: https://github.com/ethanolivertroy
 - Gitlab: https://gitlab.com/ethanolivertroy
 - HuggingFace: https://huggingface.co/ethanolivertroy
+- Killercoda: https://killercoda.com/ethanolivertroy
 - Google Developer: https://g.dev/ethantroy
 - Medium: https://medium.com/@ethanolivertroy
 
