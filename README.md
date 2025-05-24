@@ -1,59 +1,32 @@
-# Hey, I'm E.T.
+## Hey, I'm E.T. and I click buttons for a living.
 
-<details open>
-<summary><strong>About Me</strong></summary>
+### Current Interests
 
-I'm currently focused on:
-- Cloud Security
-- Google Product Research
-- Building Compliance Automation Tools
-</details>
+- Kubernetes
+- CI/CD Security
+- AI Security
+- Google Product Security
+- Boring Audit Automation
 
-<!-- Online Profiles -->
-<details open>
-<summary><strong>Find Me Online</strong></summary>
+### Links
 
-<!-- Code Platforms -->
-[![GitHub](https://img.shields.io/badge/GitHub-ethanolivertroy-181717?logo=github)](https://github.com/ethanolivertroy)
-[![GitLab](https://img.shields.io/badge/GitLab-ethanolivertroy-FC6D26?logo=gitlab)](https://gitlab.com/ethanolivertroy)
+- Digital Garden: https://hackidle.com/
+- Deprecated: https://hacks.ethantroy.com/ - my old Jekyll security blog, will migrate everything to this vault shortly 
+- Github: https://github.com/ethanolivertroy
+- Gitlab: https://gitlab.com/ethanolivertroy
+- HuggingFace: https://huggingface.co/ethanolivertroy
+- Killercoda: https://killercoda.com/ethanolivertroy
+- Google Developer: https://g.dev/ethantroy
+- Medium: https://medium.com/@ethanolivertroy
 
-<!-- Learning Platforms -->
-[![HuggingFace](https://img.shields.io/badge/HuggingFace-ethanolivertroy-FFD21E?logo=huggingface)](https://huggingface.co/ethanolivertroy)
-[![Killercoda](https://img.shields.io/badge/Killercoda-ethanolivertroy-FF9900?logo=katacoda)](https://killercoda.com/ethanolivertroy)
-[![Google Developer](https://img.shields.io/badge/Google_Developer-ethantroy-4285F4?logo=google)](https://g.dev/ethantroy)
-[![HackTheBox](https://img.shields.io/badge/HackTheBox-Profile-9fef00?logo=hackthebox)](https://app.hackthebox.com/profile/339226)
+### Badges for Clicking Buttons
 
-<!-- Content Platforms -->
-[![Medium](https://img.shields.io/badge/Medium-ethanolivertroy-000000?logo=medium)](https://medium.com/@ethanolivertroy)
-[![Digital Garden](https://img.shields.io/badge/Digital_Garden-hackidle.com-brightgreen)](https://hackidle.com/)
-[![Old Blog](https://img.shields.io/badge/Deprecated_Blog-hacks.ethantroy.com-lightgrey)](https://hacks.ethantroy.com/)
+![1](https://github.com/user-attachments/assets/c9932529-2d61-4dc4-96b1-9d3c5e263c85)
+![2](https://github.com/user-attachments/assets/f9aada99-27e5-43f6-84fe-a8fdf8f63508)
+![3](https://github.com/user-attachments/assets/4a3d9c52-77cf-43b4-902c-6d8a9ce57c37)
 
-<!-- Contributions -->
-[![Contributor - Learn to Cloud Guide](https://img.shields.io/badge/Contributor-Learn_to_Cloud_Guide-2ea44f)](https://learntocloud.guide/)
-</details>
 
-<!-- Certifications -->
-<details open>
-<summary><strong>Professional Certifications</strong></summary>
+<a href="https://app.hackthebox.com/profile/339226"> <img src="https://www.hackthebox.com/badge/image/339226"></a>
 
-<!-- Industry Standard -->
-![CISSP](https://img.shields.io/badge/CISSP-Certified-red?logo=isc2&logoColor=white)
-![Security+](https://img.shields.io/badge/Security%2B-Certified-green?logo=comptia&logoColor=white)
-![CCSK](https://img.shields.io/badge/CCSK-Certified-blue?logoColor=white)
-![CISA](https://img.shields.io/badge/CISA-Certified-0077B5?logo=isaca&logoColor=white)
-![CEH](https://img.shields.io/badge/CEH-Certified-green?logo=eccouncil&logoColor=white)
 
-<!-- Cloud -->
-![AWS Solution Architect](https://img.shields.io/badge/AWS_Solution_Architect-Certified-FF9900?logo=amazonaws&logoColor=white)
-![Google Cloud Security Engineer](https://img.shields.io/badge/Google_Cloud_Security_Engineer-Professional-4285F4?logo=googlecloud&logoColor=white)
-![KCNA](https://img.shields.io/badge/KCNA-Certified-326CE5?logo=kubernetes&logoColor=white)
 
-<!-- Offensive Security -->
-![OSCP](https://img.shields.io/badge/OSCP-Certified-darkred?logo=kalilinux&logoColor=white)
-![CARTP](https://img.shields.io/badge/CARTP-Certified-purple)
-![CRTP](https://img.shields.io/badge/CRTP-Certified-purple)
-![CRTO](https://img.shields.io/badge/CRTO-Certified-black)
-![CRTL](https://img.shields.io/badge/CRTL-Certified-black)
-![HTB CBBH](https://img.shields.io/badge/HTB_CBBH-Certified-9fef00?logo=hackthebox&logoColor=white)
-![SecOps Group AI-ML Pentester](https://img.shields.io/badge/SecOps_Group_AI--ML_Pentester-Certified-orange)
-</details>
