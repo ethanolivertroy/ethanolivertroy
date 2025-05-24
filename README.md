@@ -5,7 +5,7 @@
 - Kubernetes
 - CI/CD Security
 - AI Security
-- Google Product Security
+- Google Product Security - https://hackidle.github.io/Goog-Sec/
 - Boring Audit Automation
 
 ### Links
