@@ -4,7 +4,7 @@
 
 - Kubernetes
 - CI/CD Security
-- AI Security
+- AI Security - https://github.com/ethanolivertroy/AWS-BedRock-Security-Config-Check
 - Google Product Security - https://hackidle.github.io/Goog-Sec/
 - Boring Audit Automation
 
