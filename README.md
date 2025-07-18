@@ -9,6 +9,16 @@
 - Istio - https://killercoda.com/ethanolivertroy/scenario/istio-fedramp-compliance
 - Boring Audit Automation
 
+### Tools I Like and Contribute To
+
+| Tool | Description | Link |
+|-------|-------------|------|
+| <img width="60" height="60" alt="obsidian-icon" src="https://github.com/user-attachments/assets/6daadbf9-b6ed-4b76-a34c-3411b8f57857" style="vertical-align:middle;" /> <br>**Obsidian MarkItDown** | Integration/conversion tool for using MarkItDown with Obsidian (notes to multiple formats). | https://github.com/ethanolivertroy/obsidian-markitdown |
+
+
+
+
+
 ### Links
 
 - Digital Garden: https://hackidle.com/
