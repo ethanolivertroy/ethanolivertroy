@@ -6,6 +6,7 @@
 - CI/CD Security
 - AI Security - https://github.com/ethanolivertroy/AWS-BedRock-Security-Config-Check
 - Google Product Security - https://hackidle.github.io/Goog-Sec/
+- Istio - https://killercoda.com/ethanolivertroy/scenario/istio-fedramp-compliance
 - Boring Audit Automation
 
 ### Links
