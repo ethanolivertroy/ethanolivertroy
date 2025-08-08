@@ -1,7 +1,7 @@
 ## Hey, I'm ET 🧪👽  and I just click buttons
 
 - `I just click buttons` has been my way to move forward through seemingly complex situations rather than overcomplicating them; it's my version of Dori's "just keep swimming", my HS wrestling coach's version of "just put on your pants one leg at a time" or whoever said "just put one foot in front of the other" (I think that was my drill sergeant)
--  [hackIDLE](hackIDLE.com) is where I capture most of my [digital garden](https://www.youtube.com/watch?v=ckv_CjyKyZY) of open notes and ideas related to all things security and tech
+-  [hackIDLE](https://hackidle.com/README) is where I capture most of my [digital garden](https://www.youtube.com/watch?v=ckv_CjyKyZY) of open notes and ideas related to all things security and tech
 
 <p align="center">
 
