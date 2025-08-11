@@ -21,7 +21,7 @@
 - cloud security audit/assessment tooling & automation - grc engineering
 - container security and general docker, kubernetes, and helm stuff
 - ci/cd security, pipelines, supply chain stuffs (Jenkins, GitHub Actions, GitLab CI ish)
-- AI red team tooling
+- local LLMs & AI red team tooling
 - observability stuffs - prometheus, grafana, ELK Stack
 
 
