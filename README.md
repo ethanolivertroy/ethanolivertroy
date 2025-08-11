@@ -23,6 +23,7 @@
 - ci/cd security, pipelines, supply chain stuffs (Jenkins, GitHub Actions, GitLab CI ish)
 - local LLMs & AI red team tooling
 - observability stuffs - prometheus, grafana, ELK Stack
+- rust based blockchains (solana & injective)
 
 
 ### my content out there
