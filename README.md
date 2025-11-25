@@ -60,7 +60,7 @@
 | 💜 [vanta-auditor-interface](https://github.com/ethanolivertroy/vanta-auditor-interface) | archived POC web app for Vanta's Auditor API - local interface for compliance evidence |
 | 💜 [vanta-auditor-tui](https://github.com/ethanolivertroy/vanta-auditor-tui) | archived terminal UI for exporting Vanta audit evidence |
 | <img alt="Hugo" width="20" height="20" src="https://cdn.simpleicons.org/hugo/FF4088" style="vertical-align:middle;" /> [hugo-portfolio-demo](https://github.com/ethanolivertroy/hugo-portfolio-demo) | ready-to-deploy portfolio template for cybersecurity professionals |
-| [prowler](https://github.com/prowler-cloud/prowler) contributor                                                                                                                                                                                       | added new IAM checks for AWS security assessment; FedRAMP 20x Configurations (pending)             |
+| [prowler](https://github.com/prowler-cloud/prowler) contributor                                                                                                                                                                                       | added new IAM checks for AWS security assessment; FedRAMP 20x Configurations             |
 
 ### Trainings I've made
 
