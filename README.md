@@ -46,7 +46,7 @@
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------ |
 | <img alt="GitLab" width="20" height="20" src="https://cdn.simpleicons.org/gitlab/FC6D26" style="vertical-align:middle;" /> [my gitlab](https://gitlab.com/ethanolivertroy)              | not much over there for now tbh                  |
 | <img alt="Hugging Face" width="20" height="20" src="https://cdn.simpleicons.org/huggingface" style="vertical-align:middle;" /> [my huggingface](https://huggingface.co/ethanolivertroy) | currently working on fine-tuning some local LLMs |
-| 🤖 [HackIDLE-NIST-Coder on Ollama](https://ollama.com/etgohome/hackidle-nist-coder) | fine-tuned AI model specialized in NIST cybersecurity standards |
+| <img alt="Ollama" width="20" height="20" src="https://cdn.simpleicons.org/ollama/000000" style="vertical-align:middle;" /> [my ollama profile](https://ollama.com/etgohome) | local LLMs and fine-tuned security models |
 | <img alt="Google" width="20" height="20" src="https://cdn.simpleicons.org/google/4285F4" style="vertical-align:middle;" /> [my google dev profile](https://g.dev/ethantroy)             | google dev profile                               |
 
 ### my current notable public projects
