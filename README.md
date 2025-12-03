@@ -58,7 +58,7 @@
 | <img alt="AWS Bedrock" width="20" height="20" src="https://github.com/user-attachments/assets/0b2ec338-7b82-40ae-9693-3bb83adf3392" style="vertical-align:middle;" /> [wilma-aws bedrock sec config tool](https://github.com/ethanolivertroy/wilma) | security auditing for AWS Bedrock with GenAI security checks                                       |
 | 🤖 [HackIDLE-NIST-Coder](https://ollama.com/etgohome/hackidle-nist-coder) | fine-tuned AI model specialized in NIST cybersecurity standards (530K+ examples, 596 NIST docs) |
 | 💜 [vanta-auditor-interface](https://github.com/ethanolivertroy/vanta-auditor-interface) | archived POC web app for Vanta's Auditor API - local interface for compliance evidence |
-| 💜 [vanta-auditor-tui](https://github.com/ethanolivertroy/vanta-auditor-tui) | archived terminal UI for exporting Vanta audit evidence |
+| 🛠️ [vanta-go-export](https://github.com/ethanolivertroy/vanta-go-export) | CLI tool to export Vanta audit evidence organized by control with TUI |
 | <img alt="Hugo" width="20" height="20" src="https://cdn.simpleicons.org/hugo/FF4088" style="vertical-align:middle;" /> [hugo-portfolio-demo](https://github.com/ethanolivertroy/hugo-portfolio-demo) | ready-to-deploy portfolio template for cybersecurity professionals |
 | [prowler](https://github.com/prowler-cloud/prowler) contributor                                                                                                                                                                                       | added new IAM checks for AWS security assessment; FedRAMP 20x Configurations             |
 
