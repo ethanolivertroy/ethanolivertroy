@@ -80,14 +80,9 @@
 ### github stats
 
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="E.T.'s GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ethanolivertroy&show_icons=true&theme=catppuccin_mocha" />
-  </a>
+  <img alt="E.T.'s GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ethanolivertroy&show_icons=true&theme=catppuccin_mocha" />
   <br/>
-  <a href="https://git.io/streak-stats">
-    <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=ethanolivertroy&theme=catppuccin-mocha&hide_border=true" />
-  </a>
-
+  <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=ethanolivertroy&theme=catppuccin-mocha&hide_border=true" />
 </p>
 
 ### badges I got for clicking buttons
