@@ -38,7 +38,6 @@
 | <img alt="Website" width="20" height="20" src="https://cdn.simpleicons.org/hugo/FF4088" style="vertical-align:middle;" /> [ethantroy.dev](https://ethantroy.dev/)                        | personal site - projects, labs, guides, and cert reviews |
 | <img alt="Kubernetes" width="20" height="20" src="https://cdn.simpleicons.org/kubernetes/326CE5" style="vertical-align:middle;" /> [killercoda](https://killercoda.com/ethanolivertroy) | interactive labs and scenarios (AWS, Chainguard, Istio)  |
 | <img alt="Medium" width="20" height="20" src="https://cdn.simpleicons.org/medium/12100E" style="vertical-align:middle;" /> [my medium](https://medium.com/@ethanolivertroy)             | occasional write-ups and blogs                           |
-| [hacks](https://hacks.ethantroy.com/)                                                                                                                                                   | archive of my old Jekyll blog (migrating into hackIDLE)  |
 
 ### other stuff
 
