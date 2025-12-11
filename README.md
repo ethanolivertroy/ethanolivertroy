@@ -62,8 +62,9 @@
 | [HackIDLE-NIST-Coder](https://ollama.com/etgohome/hackidle-nist-coder) | fine-tuned AI model specialized in NIST cybersecurity standards (530K+ examples, 596 NIST docs) |
 | [vanta-go-export](https://github.com/ethanolivertroy/vanta-go-export) | CLI tool to export Vanta audit evidence organized by control with TUI |
 | [hugo-portfolio-demo](https://github.com/ethanolivertroy/hugo-portfolio-demo) | ready-to-deploy portfolio template for cybersecurity professionals |
+| [GoogSec](https://hackidle.github.io/Goog-Sec/) | google product security resource - mostly GCP related |
 
-### Trainings I've made
+### trainings I've made
 
 | Training                                                                                                                                                                                                                          | Description                                             |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------- |
