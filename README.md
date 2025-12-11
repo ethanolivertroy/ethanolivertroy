@@ -53,16 +53,23 @@
 | Project                                                                                                                                                                                                                                               | Description                                                                                        |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- |
 | [obsidian MarkItDown](https://github.com/ethanolivertroy/obsidian-markitdown) | using Microsoft's MarkItDown library to convert PDFs, PPTs, and Word(docx) documents into markdown |
-| [fedramp-docs-mcp](https://github.com/ethanolivertroy/fedramp-docs-mcp) | MCP documentation server using the official FedRAMP/docs repo |
 | [DamnVulnerableTrustCenter](https://github.com/ethanolivertroy/DamnVulnerableTrustCenter) | intentionally vulnerable trust center to demo security considerations |
 | [NIST-CMVP-API](https://github.com/ethanolivertroy/NIST-CMVP-API) | API wrapper for NIST Cryptographic Module Validation Program |
 | [NIST-CMVP-CLI](https://github.com/ethanolivertroy/NIST-CMVP-CLI) | CLI tool for querying NIST CMVP data |
 | [okta inspector](https://github.com/ethanolivertroy/okta-inspector) | okta multi-framework compliance audit tool (FedRAMP, DISA STIG, IRAP, ISMAP, SOC 2, PCI) |
-| [wilma](https://github.com/ethanolivertroy/wilma) | security auditing for AWS Bedrock with GenAI security checks |
-| [HackIDLE-NIST-Coder](https://ollama.com/etgohome/hackidle-nist-coder) | fine-tuned AI model specialized in NIST cybersecurity standards (530K+ examples, 596 NIST docs) |
 | [vanta-go-export](https://github.com/ethanolivertroy/vanta-go-export) | CLI tool to export Vanta audit evidence organized by control with TUI |
 | [hugo-portfolio-demo](https://github.com/ethanolivertroy/hugo-portfolio-demo) | ready-to-deploy portfolio template for cybersecurity professionals |
 | [GoogSec](https://hackidle.github.io/Goog-Sec/) | google product security resource - mostly GCP related |
+
+### AI/ML
+
+| Project | Description |
+| ------- | ----------- |
+| [HackIDLE-NIST-Coder](https://ollama.com/etgohome/hackidle-nist-coder) | fine-tuned model for NIST cybersecurity standards (530K+ examples) |
+| [fedramp-docs-mcp](https://github.com/ethanolivertroy/fedramp-docs-mcp) | MCP documentation server using the official FedRAMP/docs repo |
+| [wilma](https://github.com/ethanolivertroy/wilma) | security auditing for AWS Bedrock with GenAI security checks |
+| [nist-cybersecurity-training](https://huggingface.co/datasets/ethanolivertroy/nist-cybersecurity-training) | 531k row dataset for NIST cybersecurity training |
+| [Open Source Security Compliance](https://huggingface.co/collections/ethanolivertroy/open-source-security-compliance-671690c44c52f5eb3f9f7b1b) | HuggingFace collection of compliance datasets and models |
 
 ### trainings I've made
 
