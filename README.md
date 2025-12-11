@@ -80,9 +80,7 @@
 ### github stats
 
 <p align="center">
-  <img alt="E.T.'s GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ethanolivertroy&show_icons=true&theme=catppuccin_mocha" />
-  <br/>
-  <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=ethanolivertroy&theme=catppuccin-mocha&hide_border=true" />
+  <img src="/github-metrics.svg" alt="GitHub Metrics" />
 </p>
 
 ### badges I got for clicking buttons
