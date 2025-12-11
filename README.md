@@ -54,14 +54,14 @@
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- |
 | <img width="20" height="20" alt="obsidian-icon" src="https://github.com/user-attachments/assets/6daadbf9-b6ed-4b76-a34c-3411b8f57857" style="vertical-align:middle;" /> [obsidian MarkItDown](https://github.com/ethanolivertroy/obsidian-markitdown) | using Microsoft's MarkItDown library to convert PDFs, PPTs, and Word(docx) documents into markdown |
 | <img alt="Claude" width="20" height="20" src="https://cdn.simpleicons.org/anthropic/191919" style="vertical-align:middle;" /> [fedramp-docs-mcp](https://github.com/ethanolivertroy/fedramp-docs-mcp) | MCP documentation server using the official FedRAMP/docs repo |
-| 🔓 [DamnVulnerableTrustCenter](https://github.com/ethanolivertroy/DamnVulnerableTrustCenter) | intentionally vulnerable trust center to demo security considerations |
-| 🔐 [NIST-CMVP-API](https://github.com/ethanolivertroy/NIST-CMVP-API) | API wrapper for NIST Cryptographic Module Validation Program |
-| 🔐 [NIST-CMVP-CLI](https://github.com/ethanolivertroy/NIST-CMVP-CLI) | CLI tool for querying NIST CMVP data |
+| [DamnVulnerableTrustCenter](https://github.com/ethanolivertroy/DamnVulnerableTrustCenter) | intentionally vulnerable trust center to demo security considerations |
+| [NIST-CMVP-API](https://github.com/ethanolivertroy/NIST-CMVP-API) | API wrapper for NIST Cryptographic Module Validation Program |
+| [NIST-CMVP-CLI](https://github.com/ethanolivertroy/NIST-CMVP-CLI) | CLI tool for querying NIST CMVP data |
 | <img alt="Okta" width="20" height="20" src="https://cdn.simpleicons.org/okta/007DC1" style="vertical-align:middle;" /> [okta inspector](https://github.com/ethanolivertroy/okta-inspector)                                                            | okta multi-framework compliance audit tool (FedRAMP, DISA STIG, IRAP, ISMAP, SOC 2, PCI)           |
 | <img alt="AWS Bedrock" width="20" height="20" src="https://github.com/user-attachments/assets/0b2ec338-7b82-40ae-9693-3bb83adf3392" style="vertical-align:middle;" /> [wilma-aws bedrock sec config tool](https://github.com/ethanolivertroy/wilma) | security auditing for AWS Bedrock with GenAI security checks                                       |
-| 🤖 [HackIDLE-NIST-Coder](https://ollama.com/etgohome/hackidle-nist-coder) | fine-tuned AI model specialized in NIST cybersecurity standards (530K+ examples, 596 NIST docs) |
-| 💜 [vanta-auditor-interface](https://github.com/ethanolivertroy/vanta-auditor-interface) | archived POC web app for Vanta's Auditor API - local interface for compliance evidence |
-| 🛠️ [vanta-go-export](https://github.com/ethanolivertroy/vanta-go-export) | CLI tool to export Vanta audit evidence organized by control with TUI |
+| [HackIDLE-NIST-Coder](https://ollama.com/etgohome/hackidle-nist-coder) | fine-tuned AI model specialized in NIST cybersecurity standards (530K+ examples, 596 NIST docs) |
+| [vanta-auditor-interface](https://github.com/ethanolivertroy/vanta-auditor-interface) | archived POC web app for Vanta's Auditor API - local interface for compliance evidence |
+| [vanta-go-export](https://github.com/ethanolivertroy/vanta-go-export) | CLI tool to export Vanta audit evidence organized by control with TUI |
 | <img alt="Hugo" width="20" height="20" src="https://cdn.simpleicons.org/hugo/FF4088" style="vertical-align:middle;" /> [hugo-portfolio-demo](https://github.com/ethanolivertroy/hugo-portfolio-demo) | ready-to-deploy portfolio template for cybersecurity professionals |
 | [prowler](https://github.com/prowler-cloud/prowler) contributor                                                                                                                                                                                       | added new IAM checks for AWS security assessment; FedRAMP 20x Configurations             |
 
@@ -71,7 +71,7 @@
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------- |
 | <img alt="Istio" width="20" height="20" src="https://cdn.simpleicons.org/istio/466BB0" style="vertical-align:middle;" /> [istio + FedRAMP scenario lab](https://killercoda.com/ethanolivertroy/scenario/istio-fedramp-compliance) | guided lab: walkthrough of Istio for a FedRAMP-like env |
 | <img alt="AWS" width="20" height="20" src="https://cdn.simpleicons.org/amazonaws/FF9900" style="vertical-align:middle;" /> [AWS CLI Sandbox with LocalStack](https://killercoda.com/ethanolivertroy/scenario/aws-cli-sandbox) | interactive AWS CLI playground - practice AWS commands safely without costs |
-| 🔒 [Introduction to Chainguard Images](https://killercoda.com/ethanolivertroy/scenario/chainguard-images-intro) | secure, minimal container images with SBOM attestation and Sigstore verification |
+| [Introduction to Chainguard Images](https://killercoda.com/ethanolivertroy/scenario/chainguard-images-intro) | secure, minimal container images with SBOM attestation and Sigstore verification |
 
 ### open-source docs I've made or contribute to
 
