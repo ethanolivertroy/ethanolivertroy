@@ -62,7 +62,6 @@
 | [HackIDLE-NIST-Coder](https://ollama.com/etgohome/hackidle-nist-coder) | fine-tuned AI model specialized in NIST cybersecurity standards (530K+ examples, 596 NIST docs) |
 | [vanta-go-export](https://github.com/ethanolivertroy/vanta-go-export) | CLI tool to export Vanta audit evidence organized by control with TUI |
 | [hugo-portfolio-demo](https://github.com/ethanolivertroy/hugo-portfolio-demo) | ready-to-deploy portfolio template for cybersecurity professionals |
-| [prowler](https://github.com/prowler-cloud/prowler) contributor                                                                                                                                                                                       | added new IAM checks for AWS security assessment; FedRAMP 20x Configurations             |
 
 ### Trainings I've made
 
@@ -72,12 +71,12 @@
 | [AWS CLI Sandbox with LocalStack](https://killercoda.com/ethanolivertroy/scenario/aws-cli-sandbox) | interactive AWS CLI playground - practice AWS commands safely without costs |
 | [Introduction to Chainguard Images](https://killercoda.com/ethanolivertroy/scenario/chainguard-images-intro) | secure, minimal container images with SBOM attestation and Sigstore verification |
 
-### open-source docs I've made or contribute to
+### contributions to other projects
 
-| Project                                                                                                                                                                                                                      | Description                                                                                      |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ |
-| [learntocloud.guide - phase 5: cloud security fundamentals](https://learntocloud.guide/phase5/) | cloud security fundamentals for junior cloud engineers (but also for budding cloudsec engineers) |
-| [GoogSec - google product security](https://hackidle.github.io/Goog-Sec/) | a resource for google product related security concerns - mostly GCP related now |
+| Project | Description |
+| ------- | ----------- |
+| [prowler](https://github.com/prowler-cloud/prowler) | FedRAMP 20x configurations |
+| [learntocloud.guide - phase 5](https://learntocloud.guide/phase5/) | cloud security fundamentals for junior cloud engineers |
 
 ### badges I got for clicking buttons
 
