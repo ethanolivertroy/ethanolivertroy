@@ -77,12 +77,6 @@
 | <img alt="Docs" width="20" height="20" src="https://cdn.simpleicons.org/readthedocs/8CA1AF" style="vertical-align:middle;" /> [learntocloud.guide- phase 5: cloud security fundamentals](https://learntocloud.guide/phase5/) | cloud security fundamentals for junior cloud engineers (but also for budding cloudsec engineers) |
 | <img alt="Google Cloud" width="20" height="20" src="https://cdn.simpleicons.org/googlecloud/4285F4" style="vertical-align:middle;" /> [GoogSec - google product security](https://hackidle.github.io/Goog-Sec/)              | a resource for google product related security concerns - mostly GCP related now                 |
 
-### github stats
-
-<p align="center">
-  <img src="/github-metrics.svg" alt="GitHub Metrics" />
-</p>
-
 ### badges I got for clicking buttons
 
 ![1](https://github.com/user-attachments/assets/c9932529-2d61-4dc4-96b1-9d3c5e263c85)
