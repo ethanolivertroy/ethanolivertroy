@@ -48,7 +48,7 @@
 | [my ollama profile](https://ollama.com/etgohome) | local LLMs and fine-tuned security models |
 | [my google dev profile](https://g.dev/ethantroy) | google dev profile |
 
-### my current notable public projects
+### my current public projects
 
 | Project                                                                                                                                                                                                                                               | Description                                                                                        |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- |
