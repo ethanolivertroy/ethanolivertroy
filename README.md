@@ -1,5 +1,7 @@
 ## Hey, I'm ET 🧪👽 and I just click buttons
 
+[![Codeberg e.V. Member](https://img.shields.io/badge/CODEBERG_e.V.-MEMBER-2185d0?style=for-the-badge&logo=codeberg&logoColor=white)](https://codeberg.org/ethanolivertroy)
+
 - `I just click buttons` has been my way to move forward through seemingly complex situations rather than overcomplicating them; it's my version of Dori's "just keep swimming", my HS wrestling coach's version of "just put on your pants one leg at a time" or whoever said "just put one foot in front of the other" (I think that was my drill sergeant)
 -  [hackIDLE](https://hackidle.com/README) is where I capture most of my [digital garden](https://www.youtube.com/watch?v=ckv_CjyKyZY) of open notes, ideas, and research related to all things security and tech
 
