@@ -41,6 +41,11 @@
 | [killercoda](https://killercoda.com/ethanolivertroy) | interactive labs and scenarios (AWS, Chainguard, Istio) |
 | [my medium](https://medium.com/@ethanolivertroy) | occasional write-ups and blogs |
 
+### recent posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 ### other stuff
 
 | Platform                                                                                                                                                                                | Description                                      |
