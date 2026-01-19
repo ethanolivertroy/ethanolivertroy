@@ -1,0 +1,35 @@
+name: Update README with Recent Content
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # Daily at midnight UTC
+  workflow_dispatch:      # Manual trigger
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme-with-blog:
+    name: Update README with latest posts
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Pull in recent posts
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: >-
+            https://hackidle.com/rss/,
+            https://idletroy.com/rss/,
+            https://medium.com/feed/@ethanolivertroy,
+            https://dev.to/feed/ethantroy
+          max_post_count: 5
+          template: '$newline- [$title]($url) `$feedName`'
+          feed_names: "hackidle,idletroy,medium,dev.to"
+          sort_order: "desc"
+          remove_duplicates: true
+          comment_tag_name: "BLOG-POST-LIST"
+          commit_message: "docs: update README with latest blog posts"
+          committer_username: "readme-bot"
+          committer_email: "actions@github.com"
