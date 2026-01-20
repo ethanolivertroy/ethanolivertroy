@@ -23,10 +23,12 @@ jobs:
             https://hackidle.com/rss/,
             https://idletroy.com/rss/,
             https://medium.com/feed/@ethanolivertroy,
-            https://dev.to/feed/ethantroy
+            https://dev.to/feed/ethantroy,
+            https://ethantroy.com/index.xml,
+            https://ethantroy.dev/index.xml
           max_post_count: 5
           template: '$newline- [$title]($url) `$feedName`'
-          feed_names: "hackidle,idletroy,medium,dev.to"
+          feed_names: "hackidle.com,idletroy.com,medium/@ethanolivertroy,dev.to/ethantroy,ethantroy.com,ethantroy.dev"
           sort_order: "desc"
           remove_duplicates: true
           comment_tag_name: "BLOG-POST-LIST"
