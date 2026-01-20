@@ -44,7 +44,11 @@
 ### recent posts
 
 <!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+- [Our Biggest Security Blind Spot is Still the Browser](https://medium.com/@ethanolivertroy/our-biggest-security-blind-spot-is-still-the-browser-ac5ae2739f72?source=rss-4afca4395d73------2) `medium`
+- [First Shots With FujiFilm X100VI](https://idletroy.com/first-shots-with-fujifilm-x100vi/) `idletroy`
+- [Rumble @ The Ritz II](https://idletroy.com/rumble-the-ritz-ii/) `idletroy`
+- [BSides Tampa 2023](https://hackidle.com/bsides-tampa-2023/) `hackidle`
+- [Diving Back into Development and the Cloud: Command Line Basics](https://dev.to/ethantroy/diving-back-into-development-and-the-cloud-command-line-basics-c7i) `dev.to`<!-- BLOG-POST-LIST:END -->
 
 ### other stuff
 
