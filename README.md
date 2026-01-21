@@ -41,14 +41,13 @@
 | [killercoda](https://killercoda.com/ethanolivertroy) | interactive labs and scenarios (AWS, Chainguard, Istio) |
 | [my medium](https://medium.com/@ethanolivertroy) | occasional write-ups and blogs |
 
-### recent posts
+### personal
+<!-- BLOG-POST-LIST-PERSONAL:START -->
+<!-- BLOG-POST-LIST-PERSONAL:END -->
 
-<!-- BLOG-POST-LIST:START -->
-- [Our Biggest Security Blind Spot is Still the Browser](https://medium.com/@ethanolivertroy/our-biggest-security-blind-spot-is-still-the-browser-ac5ae2739f72?source=rss-4afca4395d73------2) `medium/@ethanolivertroy`
-- [FedRAMP TUI](https://ethantroy.dev/projects/cli-tools/fedramp-tui/) `ethantroy.dev`
-- [GoReleaser](https://ethantroy.dev/posts/goreleaser/) `ethantroy.dev`
-- [CISA KEV TUI](https://ethantroy.dev/projects/cli-tools/kevs-tui/) `ethantroy.dev`
-- [🎥 FedRAMP 20x Phase 2 Pilot Proposal: Meridian](https://ethantroy.dev/media/fedramp-20x-phase-2-meridian/) `ethantroy.dev`<!-- BLOG-POST-LIST:END -->
+### technical
+<!-- BLOG-POST-LIST-TECHNICAL:START -->
+<!-- BLOG-POST-LIST-TECHNICAL:END -->
 
 ### other stuff
 
