@@ -49,9 +49,9 @@
 
 ### technical
 <!-- BLOG-POST-LIST-TECHNICAL:START -->
+- [You Can Standardize Principles, Not Methodologies.](https://medium.com/@ethanolivertroy/you-can-standardize-principles-not-methodologies-8d3484aead4c?source=rss-4afca4395d73------2) `medium/@ethanolivertroy`
 - [Our Biggest Security Blind Spot is Still the Browser](https://medium.com/@ethanolivertroy/our-biggest-security-blind-spot-is-still-the-browser-ac5ae2739f72?source=rss-4afca4395d73------2) `medium/@ethanolivertroy`
-- [FedRAMP TUI](https://ethantroy.dev/projects/cli-tools/fedramp-tui/) `ethantroy.dev`
-- [GoReleaser](https://ethantroy.dev/posts/goreleaser/) `ethantroy.dev`<!-- BLOG-POST-LIST-TECHNICAL:END -->
+- [FedRAMP TUI](https://ethantroy.dev/projects/cli-tools/fedramp-tui/) `ethantroy.dev`<!-- BLOG-POST-LIST-TECHNICAL:END -->
 
 ### other stuff
 
