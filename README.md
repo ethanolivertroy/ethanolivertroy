@@ -20,16 +20,13 @@
 
 ### what I'm currently interested & focused on
 
-- cloud security audit/assessment tooling & automation - grc engineering
-- container security and general docker, kubernetes, and helm stuff
-- supply chain security - SBOM, Sigstore, distroless/minimal images (Chainguard)
-- ci/cd security, pipelines, supply chain stuffs (Jenkins, GitHub Actions, GitLab CI ish)
-- local LLMs & AI red team tooling - fine-tuning models on security datasets
+- GRC engineering — compliance automation, policy as code, continuous assurance
+- building AI agents and MCP servers for security & compliance workflows
+- Go terminal UIs for security data (NIST CMVP, CISA KEV, FedRAMP)
+- cloud security audit tooling across AWS, Azure, and GCP
+- container security — distroless/minimal images, supply chain security (SBOM, Sigstore, Chainguard)
 - AI/ML security and governance (adversarial ML, ISO 42001)
-- cloud red teaming across AWS, Azure, and GCP
-- observability stuffs - prometheus, grafana, ELK Stack
-- rust based blockchains (solana & injective)
-
+- fine-tuning models on cybersecurity and compliance datasets
 
 ### my content out there
 
@@ -53,42 +50,72 @@
 - [Building GRC Agents with the Anthropic Agent SDK](https://ethantroy.dev/posts/building-grc-agents-with-anthropic-sdk/) `ethantroy.dev`
 - [Building MCP Servers for Compliance Documentation](https://ethantroy.dev/posts/building-mcp-servers-for-compliance/) `ethantroy.dev`<!-- BLOG-POST-LIST-TECHNICAL:END -->
 
-### other stuff
+---
 
-| Platform                                                                                                                                                                                | Description                                      |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------ |
-| [my gitlab](https://gitlab.com/ethanolivertroy) | not much over there for now tbh |
-| [my huggingface](https://huggingface.co/ethanolivertroy) | currently working on fine-tuning some local LLMs |
-| [my ollama profile](https://ollama.com/etgohome) | local LLMs and fine-tuned security models |
-| [my google dev profile](https://g.dev/ethantroy) | google dev profile |
+### GRC engineering & compliance tools
 
-### my current public projects
-
-| Project                                                                                                                                                                                                                                               | Description                                                                                        |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- |
-| [obsidian MarkItDown](https://github.com/ethanolivertroy/obsidian-markitdown) | using Microsoft's MarkItDown library to convert PDFs, PPTs, and Word(docx) documents into markdown |
-| [DamnVulnerableTrustCenter](https://github.com/ethanolivertroy/DamnVulnerableTrustCenter) | intentionally vulnerable trust center to demo security considerations |
+| Project | Description |
+| ------- | ----------- |
+| [fedramp-docs-mcp](https://github.com/ethanolivertroy/fedramp-docs-mcp) | MCP documentation server using the official FedRAMP/docs repo |
+| [okta-inspector](https://github.com/ethanolivertroy/okta-inspector) | multi-framework compliance audit tool (FedRAMP, DISA STIG, SOC 2, PCI) |
+| [awesome-grc-ai](https://github.com/ethanolivertroy/awesome-grc-ai) | curated list of AI + GRC resources: governance frameworks and compliance tools |
+| [awesome-grc-engineering](https://github.com/ethanolivertroy/awesome-grc-engineering) | curated resources for GRC engineering: automation, policy as code, continuous compliance |
+| [vanta-go-export](https://github.com/ethanolivertroy/vanta-go-export) | Go CLI to export Vanta audit evidence organized by control with TUI |
 | [NIST-CMVP-API](https://github.com/ethanolivertroy/NIST-CMVP-API) | API wrapper for NIST Cryptographic Module Validation Program |
-| [NIST-CMVP-CLI](https://github.com/ethanolivertroy/NIST-CMVP-CLI) | CLI tool for querying NIST CMVP data |
-| [okta inspector](https://github.com/ethanolivertroy/okta-inspector) | okta multi-framework compliance audit tool (FedRAMP, DISA STIG, IRAP, ISMAP, SOC 2, PCI) |
-| [vanta-go-export](https://github.com/ethanolivertroy/vanta-go-export) | CLI tool to export Vanta audit evidence organized by control with TUI |
-| [hugo-portfolio-demo](https://github.com/ethanolivertroy/hugo-portfolio-demo) | ready-to-deploy portfolio template for cybersecurity professionals |
-| [GoogSec](https://hackidle.github.io/Goog-Sec/) | google product security resource - mostly GCP related |
+| [mesh-security](https://github.com/ethanolivertroy/mesh-security) | service mesh security analyzer with NIST 800-53 compliance mapping (Istio, Consul, Linkerd) |
+| [dynamic-cryptographic-modules-table](https://github.com/ethanolivertroy/dynamic-cryptographic-modules-table) | dynamic table for exploring NIST cryptographic modules data |
+
+### Go terminal UIs
+
+| Project | Description |
+| ------- | ----------- |
+| [cmvp-tui](https://github.com/ethanolivertroy/cmvp-tui) | terminal UI for searching NIST CMVP validated modules |
+| [kevs-tui](https://github.com/ethanolivertroy/kevs-tui) | terminal UI for CISA Known Exploited Vulnerabilities catalog with EPSS scores |
+| [fedramp-tui](https://github.com/ethanolivertroy/fedramp-tui) | terminal UI for browsing FedRAMP docs data |
+
+### AI agents & Claude Code plugins
+
+| Project | Description |
+| ------- | ----------- |
+| [claude-plugins](https://github.com/ethanolivertroy/claude-plugins) | my Claude Code plugins collection |
+| [claude-grc-agent](https://github.com/ethanolivertroy/claude-grc-agent) | GRC agent built with the Claude Agent SDK |
+| [nist-cybersecurity-skills](https://github.com/ethanolivertroy/nist-cybersecurity-skills) | Claude Code plugin with NIST framework references (SP 800-53, 800-171, CSF 2.0) |
+| [wilma](https://github.com/ethanolivertroy/wilma) | AWS Bedrock security configuration checker |
+| [antigravity-skills](https://github.com/ethanolivertroy/antigravity-skills) | Google Antigravity agent skills for document processing |
+
+### developer tools
+
+| Project | Description |
+| ------- | ----------- |
+| [obsidian-markitdown](https://github.com/ethanolivertroy/obsidian-markitdown) | Obsidian plugin using Microsoft's MarkItDown to convert PDFs, PPTs, and DOCX to markdown |
+| [hugo-linear-sync](https://github.com/ethanolivertroy/hugo-linear-sync) | reusable GitHub Action to sync Hugo content with Linear issues |
+
+### intentionally vulnerable projects
+
+| Project | Description |
+| ------- | ----------- |
+| [DamnVulnerableTrustCenter](https://github.com/ethanolivertroy/DamnVulnerableTrustCenter) | intentionally vulnerable trust center to demo security considerations |
+| [DamnVulnerableCryptoWallet](https://github.com/ethanolivertroy/DamnVulnerableCryptoWallet) | intentionally vulnerable crypto wallet |
+
+### package distribution
+
+Homebrew, Scoop, and Winget manifests for my security & compliance CLI tools:
+[homebrew-sectools](https://github.com/ethanolivertroy/homebrew-sectools) · [scoop-sectools](https://github.com/ethanolivertroy/scoop-sectools) · [winget-pkgs](https://github.com/ethanolivertroy/winget-pkgs)
 
 ### AI/ML
 
 | Project | Description |
 | ------- | ----------- |
 | [HackIDLE-NIST-Coder](https://ollama.com/etgohome/hackidle-nist-coder) | fine-tuned model for NIST cybersecurity standards (530K+ examples) |
-| [fedramp-docs-mcp](https://github.com/ethanolivertroy/fedramp-docs-mcp) | MCP documentation server using the official FedRAMP/docs repo |
-| [wilma](https://github.com/ethanolivertroy/wilma) | security auditing for AWS Bedrock with GenAI security checks |
 | [nist-cybersecurity-training](https://huggingface.co/datasets/ethanolivertroy/nist-cybersecurity-training) | 531k row dataset for NIST cybersecurity training |
 | [Open Source Security Compliance](https://huggingface.co/collections/ethanolivertroy/open-source-security-compliance-671690c44c52f5eb3f9f7b1b) | HuggingFace collection of compliance datasets and models |
 
+---
+
 ### trainings I've made
 
-| Training                                                                                                                                                                                                                          | Description                                             |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------- |
+| Training | Description |
+| -------- | ----------- |
 | [istio + FedRAMP scenario lab](https://killercoda.com/ethanolivertroy/scenario/istio-fedramp-compliance) | guided lab: walkthrough of Istio for a FedRAMP-like env |
 | [AWS CLI Sandbox with LocalStack](https://killercoda.com/ethanolivertroy/scenario/aws-cli-sandbox) | interactive AWS CLI playground - practice AWS commands safely without costs |
 | [Introduction to Chainguard Images](https://killercoda.com/ethanolivertroy/scenario/chainguard-images-intro) | secure, minimal container images with SBOM attestation and Sigstore verification |
@@ -99,6 +126,23 @@
 | ------- | ----------- |
 | [prowler](https://github.com/prowler-cloud/prowler) | FedRAMP 20x configurations |
 | [learntocloud.guide - phase 5](https://learntocloud.guide/phase5/) | cloud security fundamentals for junior cloud engineers |
+
+### notable past projects
+
+| Project | Description |
+| ------- | ----------- |
+| [hackspacecon-2023](https://github.com/ethanolivertroy/hackspacecon-2023) | workshop & talk slide decks from HackSpaceCon |
+| [nmap-GPT](https://github.com/ethanolivertroy/nmap-GPT) | AI-powered nmap wrapper for learning open port security |
+| [cissp-examprep-2023](https://github.com/ethanolivertroy/cissp-examprep-2023) | CISSP certification exam prep materials |
+
+### other stuff
+
+| Platform | Description |
+| -------- | ----------- |
+| [my gitlab](https://gitlab.com/ethanolivertroy) | not much over there for now tbh |
+| [my huggingface](https://huggingface.co/ethanolivertroy) | fine-tuning local LLMs and compliance datasets |
+| [my ollama profile](https://ollama.com/etgohome) | local LLMs and fine-tuned security models |
+| [my google dev profile](https://g.dev/ethantroy) | google dev profile |
 
 ### badges I got for clicking buttons
 
