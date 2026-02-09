@@ -47,8 +47,8 @@
 ### technical
 <!-- BLOG-POST-LIST-TECHNICAL:START -->
 - [You Can Standardize Principles, Not Methodologies.](https://medium.com/@ethanolivertroy/you-can-standardize-principles-not-methodologies-8d3484aead4c?source=rss-4afca4395d73------2) `medium/@ethanolivertroy`
-- [Building GRC Agents with the Anthropic Agent SDK](https://ethantroy.dev/posts/building-grc-agents-with-anthropic-sdk/) `ethantroy.dev`
-- [Building MCP Servers for Compliance Documentation](https://ethantroy.dev/posts/building-mcp-servers-for-compliance/) `ethantroy.dev`<!-- BLOG-POST-LIST-TECHNICAL:END -->
+- [Our Biggest Security Blind Spot is Still the Browser](https://medium.com/@ethanolivertroy/our-biggest-security-blind-spot-is-still-the-browser-ac5ae2739f72?source=rss-4afca4395d73------2) `medium/@ethanolivertroy`
+- [Quick HEIC to PNG Conversion on macOS](https://ethantroy.dev/jots/heic-to-png-macos/) `ethantroy.dev`<!-- BLOG-POST-LIST-TECHNICAL:END -->
 
 ---
 
