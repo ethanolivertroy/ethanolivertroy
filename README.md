@@ -40,9 +40,9 @@
 
 ### personal
 <!-- BLOG-POST-LIST-PERSONAL:START -->
+- [Build an AI Agent from Scratch &lpar;No Frameworks&rpar;](https://hackidle.com/build-an-ai-agent-from-scratch-no-frameworks/) `hackidle.com`
 - [Anxiety is just blocked energy.](https://ethantroy.com/posts/anxiety-blocked-energy/) `ethantroy.com`
-- [Thank You for Coming to Life](https://ethantroy.com/posts/thank-you-for-coming-to-life/) `ethantroy.com`
-- [Ahead of the Times](https://ethantroy.com/posts/ahead-of-the-times/) `ethantroy.com`<!-- BLOG-POST-LIST-PERSONAL:END -->
+- [Thank You for Coming to Life](https://ethantroy.com/posts/thank-you-for-coming-to-life/) `ethantroy.com`<!-- BLOG-POST-LIST-PERSONAL:END -->
 
 ### technical
 <!-- BLOG-POST-LIST-TECHNICAL:START -->
