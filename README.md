@@ -46,9 +46,9 @@
 
 ### technical
 <!-- BLOG-POST-LIST-TECHNICAL:START -->
+- [Build an AI Agent from Scratch &lpar;No Frameworks&rpar;](https://ethantroy.dev/posts/ai-agent-from-scratch/) `ethantroy.dev`
 - [You Can Standardize Principles, Not Methodologies.](https://medium.com/@ethanolivertroy/you-can-standardize-principles-not-methodologies-8d3484aead4c?source=rss-4afca4395d73------2) `medium/@ethanolivertroy`
-- [Our Biggest Security Blind Spot is Still the Browser](https://medium.com/@ethanolivertroy/our-biggest-security-blind-spot-is-still-the-browser-ac5ae2739f72?source=rss-4afca4395d73------2) `medium/@ethanolivertroy`
-- [Quick HEIC to PNG Conversion on macOS](https://ethantroy.dev/jots/heic-to-png-macos/) `ethantroy.dev`<!-- BLOG-POST-LIST-TECHNICAL:END -->
+- [Our Biggest Security Blind Spot is Still the Browser](https://medium.com/@ethanolivertroy/our-biggest-security-blind-spot-is-still-the-browser-ac5ae2739f72?source=rss-4afca4395d73------2) `medium/@ethanolivertroy`<!-- BLOG-POST-LIST-TECHNICAL:END -->
 
 ---
 
