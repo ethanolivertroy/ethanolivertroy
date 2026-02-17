@@ -46,9 +46,9 @@
 
 ### technical
 <!-- BLOG-POST-LIST-TECHNICAL:START -->
+- [CRTP &lpar;Certified Red Team Professional&rpar; Review](https://ethantroy.dev/guides/reviews/crtp/) `ethantroy.dev`
 - [myctrl.tools](https://ethantroy.dev/projects/data-reference/myctrl-tools/) `ethantroy.dev`
-- [Build an AI Agent from Scratch &lpar;No Frameworks&rpar;](https://ethantroy.dev/posts/ai-agent-from-scratch/) `ethantroy.dev`
-- [You Can Standardize Principles, Not Methodologies.](https://medium.com/@ethanolivertroy/you-can-standardize-principles-not-methodologies-8d3484aead4c?source=rss-4afca4395d73------2) `medium/@ethanolivertroy`<!-- BLOG-POST-LIST-TECHNICAL:END -->
+- [Build an AI Agent from Scratch &lpar;No Frameworks&rpar;](https://ethantroy.dev/posts/ai-agent-from-scratch/) `ethantroy.dev`<!-- BLOG-POST-LIST-TECHNICAL:END -->
 
 ---
 
