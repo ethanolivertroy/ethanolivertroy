@@ -41,8 +41,8 @@
 ### personal
 <!-- BLOG-POST-LIST-PERSONAL:START -->
 - [Build an AI Agent from Scratch &lpar;No Frameworks&rpar;](https://hackidle.com/build-an-ai-agent-from-scratch-no-frameworks/) `hackidle.com`
-- [Anxiety is just blocked energy.](https://ethantroy.com/posts/anxiety-blocked-energy/) `ethantroy.com`
-- [Thank You for Coming to Life](https://ethantroy.com/posts/thank-you-for-coming-to-life/) `ethantroy.com`<!-- BLOG-POST-LIST-PERSONAL:END -->
+- [First Shots With FujiFilm X100VI](https://idletroy.com/first-shots-with-fujifilm-x100vi/) `idletroy.com`
+- [Rumble @ The Ritz II](https://idletroy.com/rumble-the-ritz-ii/) `idletroy.com`<!-- BLOG-POST-LIST-PERSONAL:END -->
 
 ### technical
 <!-- BLOG-POST-LIST-TECHNICAL:START -->
