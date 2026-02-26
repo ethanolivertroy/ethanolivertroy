@@ -46,9 +46,9 @@
 
 ### technical
 <!-- BLOG-POST-LIST-TECHNICAL:START -->
+- [GRTE &lpar;GCP Red Team Expert&rpar; Review](https://ethantroy.dev/guides/reviews/grte/) `ethantroy.dev`
 - [CRTP &lpar;Certified Red Team Professional&rpar; Review](https://ethantroy.dev/guides/reviews/crtp/) `ethantroy.dev`
-- [Building a GRC Agent with the Claude Agent SDK](https://ethantroy.dev/posts/grc-agent-claude-sdk/) `ethantroy.dev`
-- [myctrl.tools](https://ethantroy.dev/projects/data-reference/myctrl-tools/) `ethantroy.dev`<!-- BLOG-POST-LIST-TECHNICAL:END -->
+- [Building a GRC Agent with the Claude Agent SDK](https://ethantroy.dev/posts/grc-agent-claude-sdk/) `ethantroy.dev`<!-- BLOG-POST-LIST-TECHNICAL:END -->
 
 ---
 
