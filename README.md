@@ -73,15 +73,17 @@
 | [kevs-tui](https://github.com/ethanolivertroy/kevs-tui) | terminal UI for CISA Known Exploited Vulnerabilities catalog with EPSS scores |
 | [fedramp-tui](https://github.com/ethanolivertroy/fedramp-tui) | terminal UI for browsing FedRAMP docs data |
 
-### AI agents & Claude Code plugins
+### AI
 
 | Project | Description |
 | ------- | ----------- |
-| [claude-plugins](https://github.com/ethanolivertroy/claude-plugins) | my Claude Code plugins collection |
+| [skills](https://github.com/ethanolivertroy/skills) | agent skills and Claude Code plugins for productivity and workflow automation |
 | [claude-grc-agent](https://github.com/ethanolivertroy/claude-grc-agent) | GRC agent built with the Claude Agent SDK |
 | [nist-cybersecurity-skills](https://github.com/ethanolivertroy/nist-cybersecurity-skills) | Claude Code plugin with NIST framework references (SP 800-53, 800-171, CSF 2.0) |
 | [wilma](https://github.com/ethanolivertroy/wilma) | AWS Bedrock security configuration checker |
-| [antigravity-skills](https://github.com/ethanolivertroy/antigravity-skills) | Google Antigravity agent skills for document processing |
+| [HackIDLE-NIST-Coder](https://ollama.com/etgohome/hackidle-nist-coder) | fine-tuned model for NIST cybersecurity standards (530K+ examples) |
+| [nist-cybersecurity-training](https://huggingface.co/datasets/ethanolivertroy/nist-cybersecurity-training) | 531k row dataset for NIST cybersecurity training |
+| [Open Source Security Compliance](https://huggingface.co/collections/ethanolivertroy/open-source-security-compliance-671690c44c52f5eb3f9f7b1b) | HuggingFace collection of compliance datasets and models |
 
 ### developer tools
 
@@ -101,14 +103,6 @@
 
 Homebrew, Scoop, and Winget manifests for my security & compliance CLI tools:
 [homebrew-sectools](https://github.com/ethanolivertroy/homebrew-sectools) · [scoop-sectools](https://github.com/ethanolivertroy/scoop-sectools) · [winget-pkgs](https://github.com/ethanolivertroy/winget-pkgs)
-
-### AI/ML
-
-| Project | Description |
-| ------- | ----------- |
-| [HackIDLE-NIST-Coder](https://ollama.com/etgohome/hackidle-nist-coder) | fine-tuned model for NIST cybersecurity standards (530K+ examples) |
-| [nist-cybersecurity-training](https://huggingface.co/datasets/ethanolivertroy/nist-cybersecurity-training) | 531k row dataset for NIST cybersecurity training |
-| [Open Source Security Compliance](https://huggingface.co/collections/ethanolivertroy/open-source-security-compliance-671690c44c52f5eb3f9f7b1b) | HuggingFace collection of compliance datasets and models |
 
 ---
 
