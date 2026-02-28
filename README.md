@@ -40,9 +40,9 @@
 
 ### personal
 <!-- BLOG-POST-LIST-PERSONAL:START -->
-- [GRTE &lpar;GCP Red Team Expert&rpar; Review](https://ethantroy.dev/guides/reviews/grte/) `ethantroy.com`
-- [CRTP &lpar;Certified Red Team Professional&rpar; Review](https://ethantroy.dev/guides/reviews/crtp/) `ethantroy.com`
-- [Building a GRC Agent with the Claude Agent SDK](https://ethantroy.dev/posts/grc-agent-claude-sdk/) `ethantroy.com`<!-- BLOG-POST-LIST-PERSONAL:END -->
+- [Build an AI Agent from Scratch &lpar;No Frameworks&rpar;](https://hackidle.com/build-an-ai-agent-from-scratch-no-frameworks/) `hackidle.com`
+- [First Shots With FujiFilm X100VI](https://idletroy.com/first-shots-with-fujifilm-x100vi/) `idletroy.com`
+- [Rumble @ The Ritz II](https://idletroy.com/rumble-the-ritz-ii/) `idletroy.com`<!-- BLOG-POST-LIST-PERSONAL:END -->
 
 ### technical
 <!-- BLOG-POST-LIST-TECHNICAL:START -->
