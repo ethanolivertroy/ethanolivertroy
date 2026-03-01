@@ -138,19 +138,6 @@ Homebrew, Scoop, and Winget manifests for my security & compliance CLI tools:
 | [my ollama profile](https://ollama.com/etgohome) | local LLMs and fine-tuned security models |
 | [my google dev profile](https://g.dev/ethantroy) | google dev profile |
 
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="190" align="center" alt="GitHub Stats"
-      src="https://github-readme-stats.vercel.app/api?username=ethanolivertroy&show_icons=true&custom_title=GitHub+Statistics&theme=tokyonight&border_color=1a1b27"/>
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img width="345" align="center" alt="Top Languages"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ethanolivertroy&layout=compact&theme=tokyonight&border_color=1a1b27"/>
-  </a>
-</div>
-
----
-
 ### badges I got for clicking buttons
 
 ![1](https://github.com/user-attachments/assets/c9932529-2d61-4dc4-96b1-9d3c5e263c85)
