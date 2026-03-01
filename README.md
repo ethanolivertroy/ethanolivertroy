@@ -3,21 +3,6 @@
 [![Codeberg e.V. Member](https://img.shields.io/badge/CODEBERG_e.V.-MEMBER-2185d0?style=for-the-badge&logo=codeberg&logoColor=white)](https://codeberg.org/ethanolivertroy)
 
 - `I just click buttons` has been my way to move forward through seemingly complex situations rather than overcomplicating them; it's my version of Dori's "just keep swimming", my HS wrestling coach's version of "just put on your pants one leg at a time" or whoever said "just put one foot in front of the other" (I think that was my drill sergeant)
--  [hackIDLE](https://hackidle.com/README) is where I capture most of my [digital garden](https://www.youtube.com/watch?v=ckv_CjyKyZY) of open notes, ideas, and research related to all things security and tech
-
-<p align="center">
-
-  <a href="https://www.youtube.com/@hackidle">
-    <img alt="YouTube - @hackidle" src="https://img.shields.io/badge/YouTube-@hackidle-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
-  <a href="https://hackidle.com/">
-    <img alt="Website - hackidle.com" src="https://img.shields.io/badge/Website-hackidle.com-0b72b9?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
-    <a href="https://www.buymeacoffee.com/ethantroy">
-    <img alt="Buy Me A Coffee" src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-donate-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" />
-  </a>
-</p>
-
 <p align="center">
   <a href="https://open.spotify.com">
     <img src="https://novatorem-rose-six.vercel.app" alt="Spotify Now Playing" width="350" />
