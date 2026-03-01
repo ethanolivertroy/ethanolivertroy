@@ -18,10 +18,9 @@
   </a>
 </p>
 
-<!-- Spotify Now Playing — deploy novatorem/novatorem to Vercel, then replace the URL below -->
 <p align="center">
-  <a href="https://open.spotify.com/user/YOUR_SPOTIFY_USERNAME">
-    <img src="https://YOUR_NOVATOREM_URL.vercel.app/api/spotify" alt="Spotify Now Playing" width="350" />
+  <a href="https://open.spotify.com">
+    <img src="https://novatorem-rose-six.vercel.app" alt="Spotify Now Playing" width="350" />
   </a>
 </p>
 
