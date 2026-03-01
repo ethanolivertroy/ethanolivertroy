@@ -18,15 +18,19 @@
   </a>
 </p>
 
-### what I'm currently interested & focused on
+<!-- Spotify Now Playing — deploy novatorem/novatorem to Vercel, then replace the URL below -->
+<p align="center">
+  <a href="https://open.spotify.com/user/YOUR_SPOTIFY_USERNAME">
+    <img src="https://YOUR_NOVATOREM_URL.vercel.app/api/spotify" alt="Spotify Now Playing" width="350" />
+  </a>
+</p>
 
-- GRC engineering — compliance automation, policy as code, continuous assurance
-- building AI agents and MCP servers for security & compliance workflows
-- Go terminal UIs for security data (NIST CMVP, CISA KEV, FedRAMP)
-- cloud security audit tooling across AWS, Azure, and GCP
-- container security — distroless/minimal images, supply chain security (SBOM, Sigstore, Chainguard)
-- AI/ML security and governance (adversarial ML, ISO 42001)
-- fine-tuning models on cybersecurity and compliance datasets
+### currently hacking on
+
+- **offensive AI security** — red teaming LLMs, adversarial ML, AI workload attack surfaces
+- **Kubernetes security** — hardening AI workloads in K8s, runtime security, supply chain
+- **infrastructure & hardware** — going deeper on infra fundamentals and hardware security
+- **GRC engineering** — compliance automation, FedRAMP tooling, OSCAL (the day job)
 
 ### my content out there
 
@@ -52,27 +56,6 @@
 
 ---
 
-### GRC engineering & compliance tools
-
-| Project | Description |
-| ------- | ----------- |
-| [fedramp-docs-mcp](https://github.com/ethanolivertroy/fedramp-docs-mcp) | MCP documentation server using the official FedRAMP/docs repo |
-| [okta-inspector](https://github.com/ethanolivertroy/okta-inspector) | multi-framework compliance audit tool (FedRAMP, DISA STIG, SOC 2, PCI) |
-| [awesome-grc-ai](https://github.com/ethanolivertroy/awesome-grc-ai) | curated list of AI + GRC resources: governance frameworks and compliance tools |
-| [awesome-grc-engineering](https://github.com/ethanolivertroy/awesome-grc-engineering) | curated resources for GRC engineering: automation, policy as code, continuous compliance |
-| [vanta-go-export](https://github.com/ethanolivertroy/vanta-go-export) | Go CLI to export Vanta audit evidence organized by control with TUI |
-| [NIST-CMVP-API](https://github.com/ethanolivertroy/NIST-CMVP-API) | API wrapper for NIST Cryptographic Module Validation Program |
-| [mesh-security](https://github.com/ethanolivertroy/mesh-security) | service mesh security analyzer with NIST 800-53 compliance mapping (Istio, Consul, Linkerd) |
-| [dynamic-cryptographic-modules-table](https://github.com/ethanolivertroy/dynamic-cryptographic-modules-table) | dynamic table for exploring NIST cryptographic modules data |
-
-### Go terminal UIs
-
-| Project | Description |
-| ------- | ----------- |
-| [cmvp-tui](https://github.com/ethanolivertroy/cmvp-tui) | terminal UI for searching NIST CMVP validated modules |
-| [kevs-tui](https://github.com/ethanolivertroy/kevs-tui) | terminal UI for CISA Known Exploited Vulnerabilities catalog with EPSS scores |
-| [fedramp-tui](https://github.com/ethanolivertroy/fedramp-tui) | terminal UI for browsing FedRAMP docs data |
-
 ### AI
 
 | Project | Description |
@@ -92,6 +75,14 @@
 | [obsidian-markitdown](https://github.com/ethanolivertroy/obsidian-markitdown) | Obsidian plugin using Microsoft's MarkItDown to convert PDFs, PPTs, and DOCX to markdown |
 | [hugo-linear-sync](https://github.com/ethanolivertroy/hugo-linear-sync) | reusable GitHub Action to sync Hugo content with Linear issues |
 
+### Go terminal UIs
+
+| Project | Description |
+| ------- | ----------- |
+| [cmvp-tui](https://github.com/ethanolivertroy/cmvp-tui) | terminal UI for searching NIST CMVP validated modules |
+| [kevs-tui](https://github.com/ethanolivertroy/kevs-tui) | terminal UI for CISA Known Exploited Vulnerabilities catalog with EPSS scores |
+| [fedramp-tui](https://github.com/ethanolivertroy/fedramp-tui) | terminal UI for browsing FedRAMP docs data |
+
 ### intentionally vulnerable projects
 
 | Project | Description |
@@ -105,6 +96,19 @@ Homebrew, Scoop, and Winget manifests for my security & compliance CLI tools:
 [homebrew-sectools](https://github.com/ethanolivertroy/homebrew-sectools) · [scoop-sectools](https://github.com/ethanolivertroy/scoop-sectools) · [winget-pkgs](https://github.com/ethanolivertroy/winget-pkgs)
 
 ---
+
+### GRC engineering & compliance tools
+
+| Project | Description |
+| ------- | ----------- |
+| [fedramp-docs-mcp](https://github.com/ethanolivertroy/fedramp-docs-mcp) | MCP documentation server using the official FedRAMP/docs repo |
+| [okta-inspector](https://github.com/ethanolivertroy/okta-inspector) | multi-framework compliance audit tool (FedRAMP, DISA STIG, SOC 2, PCI) |
+| [awesome-grc-ai](https://github.com/ethanolivertroy/awesome-grc-ai) | curated list of AI + GRC resources: governance frameworks and compliance tools |
+| [awesome-grc-engineering](https://github.com/ethanolivertroy/awesome-grc-engineering) | curated resources for GRC engineering: automation, policy as code, continuous compliance |
+| [vanta-go-export](https://github.com/ethanolivertroy/vanta-go-export) | Go CLI to export Vanta audit evidence organized by control with TUI |
+| [NIST-CMVP-API](https://github.com/ethanolivertroy/NIST-CMVP-API) | API wrapper for NIST Cryptographic Module Validation Program |
+| [mesh-security](https://github.com/ethanolivertroy/mesh-security) | service mesh security analyzer with NIST 800-53 compliance mapping (Istio, Consul, Linkerd) |
+| [dynamic-cryptographic-modules-table](https://github.com/ethanolivertroy/dynamic-cryptographic-modules-table) | dynamic table for exploring NIST cryptographic modules data |
 
 ### trainings I've made
 
