@@ -34,9 +34,9 @@
 
 ### technical
 <!-- BLOG-POST-LIST-TECHNICAL:START -->
+- [[un]prompted 2026](https://ethantroy.dev/posts/unprompted-2026/) `ethantroy.dev`
 - [🎥 Rev5 Community Update Special Event: GRC Engineering with Rev5](https://ethantroy.dev/media/rev5-community-update-grc-engineering/) `ethantroy.dev`
-- [MCP Server for OSCAL](https://ethantroy.dev/projects/contributions/mcp-server-for-oscal/) `ethantroy.dev`
-- [GRTE &lpar;GCP Red Team Expert&rpar; Review](https://ethantroy.dev/guides/reviews/grte/) `ethantroy.dev`<!-- BLOG-POST-LIST-TECHNICAL:END -->
+- [MCP Server for OSCAL](https://ethantroy.dev/projects/contributions/mcp-server-for-oscal/) `ethantroy.dev`<!-- BLOG-POST-LIST-TECHNICAL:END -->
 
 ---
 
