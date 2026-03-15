@@ -34,9 +34,9 @@
 
 ### technical
 <!-- BLOG-POST-LIST-TECHNICAL:START -->
+- [OpenAI Codex Community Meetup - Orlando](https://ethantroy.dev/posts/codex-community-meetup-orlando-march-2026/) `ethantroy.dev`
 - [[un]prompted 2026](https://ethantroy.dev/posts/unprompted-2026/) `ethantroy.dev`
-- [🎥 Rev5 Community Update Special Event: GRC Engineering with Rev5](https://ethantroy.dev/media/rev5-community-update-grc-engineering/) `ethantroy.dev`
-- [MCP Server for OSCAL](https://ethantroy.dev/projects/contributions/mcp-server-for-oscal/) `ethantroy.dev`<!-- BLOG-POST-LIST-TECHNICAL:END -->
+- [🎥 Rev5 Community Update Special Event: GRC Engineering with Rev5](https://ethantroy.dev/media/rev5-community-update-grc-engineering/) `ethantroy.dev`<!-- BLOG-POST-LIST-TECHNICAL:END -->
 
 ---
 
