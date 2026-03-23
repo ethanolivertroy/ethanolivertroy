@@ -34,9 +34,9 @@
 
 ### technical
 <!-- BLOG-POST-LIST-TECHNICAL:START -->
-- [Do Certifications Matter?](https://ethantroy.dev/guides/reviews/do-certifications-matter/) `ethantroy.dev`
-- [OpenAI Codex Community Meetup - Orlando](https://ethantroy.dev/posts/codex-community-meetup-orlando-march-2026/) `ethantroy.dev`
-- [[un]prompted 2026](https://ethantroy.dev/posts/unprompted-2026/) `ethantroy.dev`<!-- BLOG-POST-LIST-TECHNICAL:END -->
+- [AI Penetration Testing Tools: The Landscape and the Risks](https://ethantroy.dev/posts/ai-penetration-testing/) `ethantroy.dev`
+- [Search and Scraping Tools for AI Agents](https://ethantroy.dev/posts/search-and-scraping-tools-for-ai-agents/) `ethantroy.dev`
+- [Building a GRC Agent with OpenAI Agents SDK and Codex CLI](https://ethantroy.dev/posts/grc-agent-openai-codex/) `ethantroy.dev`<!-- BLOG-POST-LIST-TECHNICAL:END -->
 
 ---
 
