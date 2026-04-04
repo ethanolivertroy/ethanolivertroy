@@ -34,9 +34,9 @@
 
 ### technical
 <!-- BLOG-POST-LIST-TECHNICAL:START -->
-- [AI Penetration Testing Tools: The Landscape and the Risks](https://ethantroy.dev/posts/ai-penetration-testing/) `ethantroy.dev`
-- [Search and Scraping Tools for AI Agents](https://ethantroy.dev/posts/search-and-scraping-tools-for-ai-agents/) `ethantroy.dev`
-- [Building a GRC Agent with OpenAI Agents SDK and Codex CLI](https://ethantroy.dev/posts/grc-agent-openai-codex/) `ethantroy.dev`<!-- BLOG-POST-LIST-TECHNICAL:END -->
+- [Compliance Trestle Skills](https://ethantroy.dev/projects/ai-ml/compliance-trestle-skills/) `ethantroy.dev`
+- [🎥 FedRAMP 20x Explained Webinar](https://ethantroy.dev/media/fedramp-20x-explained-webinar/) `ethantroy.dev`
+- [SCF API](https://ethantroy.dev/projects/data-reference/scf-api/) `ethantroy.dev`<!-- BLOG-POST-LIST-TECHNICAL:END -->
 
 ---
 
