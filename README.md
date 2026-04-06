@@ -33,9 +33,9 @@
 
 ### technical
 <!-- BLOG-POST-LIST-TECHNICAL:START -->
+- [GRCLanker](https://ethantroy.dev/projects/compliance-engineering/grclanker/) `ethantroy.dev`
 - [Compliance Trestle Skills](https://ethantroy.dev/projects/ai-ml/compliance-trestle-skills/) `ethantroy.dev`
-- [🎥 FedRAMP 20x Explained Webinar](https://ethantroy.dev/media/fedramp-20x-explained-webinar/) `ethantroy.dev`
-- [SCF API](https://ethantroy.dev/projects/data-reference/scf-api/) `ethantroy.dev`<!-- BLOG-POST-LIST-TECHNICAL:END -->
+- [🎥 FedRAMP 20x Explained Webinar](https://ethantroy.dev/media/fedramp-20x-explained-webinar/) `ethantroy.dev`<!-- BLOG-POST-LIST-TECHNICAL:END -->
 
 ---
 
