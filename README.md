@@ -7,7 +7,7 @@
 - `I just click buttons` has been my way to move forward through seemingly complex situations rather than overcomplicating them; it's my version of Dori's "just keep swimming", my HS wrestling coach's version of "just put on your pants one leg at a time" or whoever said "just put one foot in front of the other" (I think that was my drill sergeant)
 
 <p align="center">
-  <strong><a href="https://ethantroy.dev/">ethantroy.dev</a></strong> · <strong><a href="https://ethantroy.com/">ethantroy.com</a></strong> · <strong><a href="https://buttondown.com/ethantroy">newsletter</a></strong>
+  <strong><a href="https://etroy.blog/">etroy.blog</a></strong> · <strong><a href="https://ethantroy.dev/">ethantroy.dev</a></strong> · <strong><a href="https://ethantroy.com/">ethantroy.com</a></strong> · <strong><a href="https://buttondown.com/ethantroy">newsletter</a></strong>
 </p>
 
 ### latest posts
@@ -34,7 +34,9 @@
 
 ---
 
-### the IDLEs
+## the IDLEs
+
+### hackIDLE
 
 <a href="https://github.com/hackIDLE">
   <img src="https://raw.githubusercontent.com/ethanolivertroy/ethanolivertroy/main/assets/hackidle-card.jpg" alt="hackIDLE" width="100%" />
@@ -45,6 +47,8 @@
 - [hackidle.com](https://hackidle.com/) · [hackIDLE YouTube](https://www.youtube.com/@hackidle)
 - [myctrl.tools](https://www.myctrl.tools/) — security compliance search and assessment preparation platform
 - [GRCLanker](https://ethantroy.dev/projects/compliance-engineering/grclanker/) — terminal-based compliance tool for GRC engineers
+
+### bioIDLE
 
 <a href="https://bioidle.dev/">
   <img src="https://raw.githubusercontent.com/ethanolivertroy/ethanolivertroy/main/assets/bioidle-card.jpg" alt="bioIDLE" width="100%" />
