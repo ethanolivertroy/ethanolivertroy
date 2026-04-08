@@ -1,13 +1,21 @@
+<a href="https://github.com/ethanolivertroy">
+  <img src="https://raw.githubusercontent.com/ethanolivertroy/ethanolivertroy/main/assets/hero.jpg" alt="hero" width="100%" />
+</a>
+
 ## Hey, I'm ET 🧪👽 and I just click buttons
 
-[![Codeberg e.V. Member](https://img.shields.io/badge/CODEBERG_e.V.-MEMBER-2185d0?style=for-the-badge&logo=codeberg&logoColor=white)](https://codeberg.org/ethanolivertroy)
-
 - `I just click buttons` has been my way to move forward through seemingly complex situations rather than overcomplicating them; it's my version of Dori's "just keep swimming", my HS wrestling coach's version of "just put on your pants one leg at a time" or whoever said "just put one foot in front of the other" (I think that was my drill sergeant)
-<p align="center">
-  <a href="https://open.spotify.com">
-    <img src="https://novatorem-rose-six.vercel.app" alt="Spotify Now Playing" width="350" />
-  </a>
-</p>
+
+**[ethantroy.dev](https://ethantroy.dev/)** · **[ethantroy.com](https://ethantroy.com/)** · **[newsletter](https://buttondown.com/ethantroy)**
+
+### latest posts
+<!-- BLOG-POST-LIST-PERSONAL:START -->
+- [First Shots With FujiFilm X100VI](https://idletroy.com/first-shots-with-fujifilm-x100vi/) `idletroy.com`
+- [Rumble @ The Ritz II](https://idletroy.com/rumble-the-ritz-ii/) `idletroy.com`<!-- BLOG-POST-LIST-PERSONAL:END -->
+<!-- BLOG-POST-LIST-TECHNICAL:START -->
+- [GRCLanker](https://ethantroy.dev/projects/compliance-engineering/grclanker/) `ethantroy.dev`
+- [Compliance Trestle Skills](https://ethantroy.dev/projects/ai-ml/compliance-trestle-skills/) `ethantroy.dev`
+- [🎥 FedRAMP 20x Explained Webinar](https://ethantroy.dev/media/fedramp-20x-explained-webinar/) `ethantroy.dev`<!-- BLOG-POST-LIST-TECHNICAL:END -->
 
 ### currently hacking on
 
@@ -16,119 +24,32 @@
 - **infrastructure & hardware** — going deeper on infra fundamentals and hardware security
 - **GRC engineering** — compliance automation, FedRAMP tooling, OSCAL (the day job)
 
-### my content out there
-
-| Platform                                                                                                                                                                                | Description                                              |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------- |
-| [hackIDLE Youtube](https://www.youtube.com/@hackidle) | tech/security videos, tooling walkthroughs, and demos |
-| [hackIDLE](https://hackidle.com/) | obsidian-powered notes, research, and living docs |
-| [ethantroy.dev](https://ethantroy.dev/) | personal site - projects, labs, guides, and cert reviews |
-| [killercoda](https://killercoda.com/ethanolivertroy) | interactive labs and scenarios (AWS, Chainguard, Istio) |
-| [my medium](https://medium.com/@ethanolivertroy) | occasional write-ups and blogs |
-
-### personal
-<!-- BLOG-POST-LIST-PERSONAL:START -->
-- [First Shots With FujiFilm X100VI](https://idletroy.com/first-shots-with-fujifilm-x100vi/) `idletroy.com`
-- [Rumble @ The Ritz II](https://idletroy.com/rumble-the-ritz-ii/) `idletroy.com`<!-- BLOG-POST-LIST-PERSONAL:END -->
-
-### technical
-<!-- BLOG-POST-LIST-TECHNICAL:START -->
-- [GRCLanker](https://ethantroy.dev/projects/compliance-engineering/grclanker/) `ethantroy.dev`
-- [Compliance Trestle Skills](https://ethantroy.dev/projects/ai-ml/compliance-trestle-skills/) `ethantroy.dev`
-- [🎥 FedRAMP 20x Explained Webinar](https://ethantroy.dev/media/fedramp-20x-explained-webinar/) `ethantroy.dev`<!-- BLOG-POST-LIST-TECHNICAL:END -->
+<p align="center">
+  <a href="https://open.spotify.com">
+    <img src="https://novatorem-rose-six.vercel.app" alt="Spotify Now Playing" width="350" />
+  </a>
+</p>
 
 ---
 
-### AI
+### the IDLEs
 
-| Project | Description |
-| ------- | ----------- |
-| [skills](https://github.com/ethanolivertroy/skills) | agent skills and Claude Code plugins for productivity and workflow automation |
-| [claude-grc-agent](https://github.com/ethanolivertroy/claude-grc-agent) | GRC agent built with the Claude Agent SDK |
-| [nist-cybersecurity-skills](https://github.com/ethanolivertroy/nist-cybersecurity-skills) | Claude Code plugin with NIST framework references (SP 800-53, 800-171, CSF 2.0) |
-| [wilma](https://github.com/ethanolivertroy/wilma) | AWS Bedrock security configuration checker |
-| [HackIDLE-NIST-Coder](https://ollama.com/etgohome/hackidle-nist-coder) | fine-tuned model for NIST cybersecurity standards (530K+ examples) |
-| [nist-cybersecurity-training](https://huggingface.co/datasets/ethanolivertroy/nist-cybersecurity-training) | 531k row dataset for NIST cybersecurity training |
-| [Open Source Security Compliance](https://huggingface.co/collections/ethanolivertroy/open-source-security-compliance-671690c44c52f5eb3f9f7b1b) | HuggingFace collection of compliance datasets and models |
+<a href="https://github.com/hackIDLE">
+  <img src="https://raw.githubusercontent.com/ethanolivertroy/ethanolivertroy/main/assets/hackidle-card.jpg" alt="hackIDLE" width="100%" />
+</a>
 
-### developer tools
+**[hackIDLE](https://github.com/hackIDLE)** — security research, compliance tooling, and open source hacking
 
-| Project | Description |
-| ------- | ----------- |
-| [obsidian-markitdown](https://github.com/ethanolivertroy/obsidian-markitdown) | Obsidian plugin using Microsoft's MarkItDown to convert PDFs, PPTs, and DOCX to markdown |
-| [hugo-linear-sync](https://github.com/ethanolivertroy/hugo-linear-sync) | reusable GitHub Action to sync Hugo content with Linear issues |
+- [hackidle.com](https://hackidle.com/) · [hackIDLE YouTube](https://www.youtube.com/@hackidle)
+- [myctrl.tools](https://www.myctrl.tools/) — security compliance search and assessment preparation platform
+- [GRCLanker](https://ethantroy.dev/projects/compliance-engineering/grclanker/) — terminal-based compliance tool for GRC engineers
 
-### Go terminal UIs
+<a href="https://bioidle.dev/">
+  <img src="https://raw.githubusercontent.com/ethanolivertroy/ethanolivertroy/main/assets/bioidle-card.jpg" alt="bioIDLE" width="100%" />
+</a>
 
-| Project | Description |
-| ------- | ----------- |
-| [cmvp-tui](https://github.com/ethanolivertroy/cmvp-tui) | terminal UI for searching NIST CMVP validated modules |
-| [kevs-tui](https://github.com/ethanolivertroy/kevs-tui) | terminal UI for CISA Known Exploited Vulnerabilities catalog with EPSS scores |
-| [fedramp-tui](https://github.com/ethanolivertroy/fedramp-tui) | terminal UI for browsing FedRAMP docs data |
-
-### intentionally vulnerable projects
-
-| Project | Description |
-| ------- | ----------- |
-| [DamnVulnerableTrustCenter](https://github.com/ethanolivertroy/DamnVulnerableTrustCenter) | intentionally vulnerable trust center to demo security considerations |
-| [DamnVulnerableCryptoWallet](https://github.com/ethanolivertroy/DamnVulnerableCryptoWallet) | intentionally vulnerable crypto wallet |
-
-### package distribution
-
-Homebrew, Scoop, and Winget manifests for my security & compliance CLI tools:
-[homebrew-sectools](https://github.com/ethanolivertroy/homebrew-sectools) · [scoop-sectools](https://github.com/ethanolivertroy/scoop-sectools) · [winget-pkgs](https://github.com/ethanolivertroy/winget-pkgs)
+**[bioIDLE](https://bioidle.dev/)** — AI-accelerated biology: open notebook for biophysics and biochem research
 
 ---
 
-### GRC engineering & compliance tools
-
-| Project | Description |
-| ------- | ----------- |
-| [fedramp-docs-mcp](https://github.com/ethanolivertroy/fedramp-docs-mcp) | MCP documentation server using the official FedRAMP/docs repo |
-| [okta-inspector](https://github.com/ethanolivertroy/okta-inspector) | multi-framework compliance audit tool (FedRAMP, DISA STIG, SOC 2, PCI) |
-| [awesome-grc-ai](https://github.com/ethanolivertroy/awesome-grc-ai) | curated list of AI + GRC resources: governance frameworks and compliance tools |
-| [awesome-grc-engineering](https://github.com/ethanolivertroy/awesome-grc-engineering) | curated resources for GRC engineering: automation, policy as code, continuous compliance |
-| [vanta-go-export](https://github.com/ethanolivertroy/vanta-go-export) | Go CLI to export Vanta audit evidence organized by control with TUI |
-| [NIST-CMVP-API](https://github.com/ethanolivertroy/NIST-CMVP-API) | API wrapper for NIST Cryptographic Module Validation Program |
-| [mesh-security](https://github.com/ethanolivertroy/mesh-security) | service mesh security analyzer with NIST 800-53 compliance mapping (Istio, Consul, Linkerd) |
-| [dynamic-cryptographic-modules-table](https://github.com/ethanolivertroy/dynamic-cryptographic-modules-table) | dynamic table for exploring NIST cryptographic modules data |
-
-### trainings I've made
-
-| Training | Description |
-| -------- | ----------- |
-| [istio + FedRAMP scenario lab](https://killercoda.com/ethanolivertroy/scenario/istio-fedramp-compliance) | guided lab: walkthrough of Istio for a FedRAMP-like env |
-| [AWS CLI Sandbox with LocalStack](https://killercoda.com/ethanolivertroy/scenario/aws-cli-sandbox) | interactive AWS CLI playground - practice AWS commands safely without costs |
-| [Introduction to Chainguard Images](https://killercoda.com/ethanolivertroy/scenario/chainguard-images-intro) | secure, minimal container images with SBOM attestation and Sigstore verification |
-
-### contributions to other projects
-
-| Project | Description |
-| ------- | ----------- |
-| [prowler](https://github.com/prowler-cloud/prowler) | FedRAMP 20x configurations |
-| [learntocloud.guide - phase 5](https://learntocloud.guide/phase5/) | cloud security fundamentals for junior cloud engineers |
-
-### notable past projects
-
-| Project | Description |
-| ------- | ----------- |
-| [hackspacecon-2023](https://github.com/ethanolivertroy/hackspacecon-2023) | workshop & talk slide decks from HackSpaceCon |
-| [nmap-GPT](https://github.com/ethanolivertroy/nmap-GPT) | AI-powered nmap wrapper for learning open port security |
-| [cissp-examprep-2023](https://github.com/ethanolivertroy/cissp-examprep-2023) | CISSP certification exam prep materials |
-
-### other stuff
-
-| Platform | Description |
-| -------- | ----------- |
-| [my gitlab](https://gitlab.com/ethanolivertroy) | not much over there for now tbh |
-| [my huggingface](https://huggingface.co/ethanolivertroy) | fine-tuning local LLMs and compliance datasets |
-| [my ollama profile](https://ollama.com/etgohome) | local LLMs and fine-tuned security models |
-| [my google dev profile](https://g.dev/ethantroy) | google dev profile |
-
-### badges I got for clicking buttons
-
-![1](https://github.com/user-attachments/assets/c9932529-2d61-4dc4-96b1-9d3c5e263c85)
-![2](https://github.com/user-attachments/assets/f9aada99-27e5-43f6-84fe-a8fdf8f63508)
-![3](https://github.com/user-attachments/assets/7a8173f4-6269-4bdb-9dc6-aca195dfe169)
-
-<a href="https://app.hackthebox.com/profile/339226"><img alt="HackTheBox badge" src="https://www.hackthebox.com/badge/image/339226"></a>
+**[Certs & badges →](CERTS.md)**
