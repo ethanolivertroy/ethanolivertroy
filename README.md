@@ -6,7 +6,9 @@
 
 - `I just click buttons` has been my way to move forward through seemingly complex situations rather than overcomplicating them; it's my version of Dori's "just keep swimming", my HS wrestling coach's version of "just put on your pants one leg at a time" or whoever said "just put one foot in front of the other" (I think that was my drill sergeant)
 
-**[ethantroy.dev](https://ethantroy.dev/)** · **[ethantroy.com](https://ethantroy.com/)** · **[newsletter](https://buttondown.com/ethantroy)**
+<p align="center">
+  <strong><a href="https://ethantroy.dev/">ethantroy.dev</a></strong> · <strong><a href="https://ethantroy.com/">ethantroy.com</a></strong> · <strong><a href="https://buttondown.com/ethantroy">newsletter</a></strong>
+</p>
 
 ### latest posts
 <!-- BLOG-POST-LIST-PERSONAL:START -->
