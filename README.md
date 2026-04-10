@@ -15,9 +15,9 @@
 - [First Shots With FujiFilm X100VI](https://idletroy.com/first-shots-with-fujifilm-x100vi/) `idletroy.com`
 - [Rumble @ The Ritz II](https://idletroy.com/rumble-the-ritz-ii/) `idletroy.com`<!-- BLOG-POST-LIST-PERSONAL:END -->
 <!-- BLOG-POST-LIST-TECHNICAL:START -->
-- [Managing Tool Overload Without Losing Your Mind &lpar;or Your Productivity&rpar;](https://ethantroy.dev/posts/managing-tool-overload/) `ethantroy.dev`
 - [GRCLanker](https://ethantroy.dev/projects/compliance-engineering/grclanker/) `ethantroy.dev`
-- [Compliance Trestle Skills](https://ethantroy.dev/projects/ai-ml/compliance-trestle-skills/) `ethantroy.dev`<!-- BLOG-POST-LIST-TECHNICAL:END -->
+- [Compliance Trestle Skills](https://ethantroy.dev/projects/ai-ml/compliance-trestle-skills/) `ethantroy.dev`
+- [🎥 FedRAMP 20x Explained Webinar](https://ethantroy.dev/media/fedramp-20x-explained-webinar/) `ethantroy.dev`<!-- BLOG-POST-LIST-TECHNICAL:END -->
 
 ### currently hacking on
 
