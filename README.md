@@ -15,9 +15,9 @@
 - [First Shots With FujiFilm X100VI](https://idletroy.com/first-shots-with-fujifilm-x100vi/) `idletroy.com`
 - [Rumble @ The Ritz II](https://idletroy.com/rumble-the-ritz-ii/) `idletroy.com`<!-- BLOG-POST-LIST-PERSONAL:END -->
 <!-- BLOG-POST-LIST-TECHNICAL:START -->
-- [🎥 Paramify Podcast: GRC Engineering, FedRAMP 20x, and AI](https://ethantroy.dev/media/paramify-podcast-grc-engineering-fedramp-20x-ai/) `ethantroy.dev`
+- [Paramify Podcast: GRC Engineering, FedRAMP 20x, and AI](https://ethantroy.dev/media/paramify-podcast-grc-engineering-fedramp-20x-ai/) `ethantroy.dev`
 - [Building a GRC Engineer Agent with Flue and Cloudflare](https://ethantroy.dev/posts/flue-grc-engineer-demo/) `ethantroy.dev`
-- [🎥 Dune Security: Exploring GRC Engineering](https://ethantroy.dev/media/dune-security-exploring-grc-engineering/) `ethantroy.dev`<!-- BLOG-POST-LIST-TECHNICAL:END -->
+- [Dune Security: Exploring GRC Engineering](https://ethantroy.dev/media/dune-security-exploring-grc-engineering/) `ethantroy.dev`<!-- BLOG-POST-LIST-TECHNICAL:END -->
 
 ### currently hacking on
 
