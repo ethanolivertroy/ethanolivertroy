@@ -15,9 +15,9 @@
 - [First Shots With FujiFilm X100VI](https://idletroy.com/first-shots-with-fujifilm-x100vi/) `idletroy.com`
 - [Rumble @ The Ritz II](https://idletroy.com/rumble-the-ritz-ii/) `idletroy.com`<!-- BLOG-POST-LIST-PERSONAL:END -->
 <!-- BLOG-POST-LIST-TECHNICAL:START -->
-- [How to Train Your GRC Bro](https://ethantroy.dev/posts/how-to-train-your-grc-bro/) `ethantroy.dev`
-- [Paramify Podcast: GRC Engineering, FedRAMP 20x, and AI](https://ethantroy.dev/media/paramify-podcast-grc-engineering-fedramp-20x-ai/) `ethantroy.dev`
-- [GRC Engineering for FedRAMP 20x](https://ethantroy.dev/posts/grc-engineering-for-fedramp-20x/) `ethantroy.dev`<!-- BLOG-POST-LIST-TECHNICAL:END -->
+- [Fireworks Firepass With Kimi Is Fast Enough for Daily Work](https://ethantroy.dev/posts/fireworks-firepass-kimi-daily-workflows/) `ethantroy.dev`
+- [Testing exe.dev as an Agent Workbench](https://ethantroy.dev/posts/testing-exe-dev/) `ethantroy.dev`
+- [How to Train Your GRC Bro](https://ethantroy.dev/posts/how-to-train-your-grc-bro/) `ethantroy.dev`<!-- BLOG-POST-LIST-TECHNICAL:END -->
 
 ### currently hacking on
 
