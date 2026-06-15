@@ -15,9 +15,9 @@
 - [First Shots With FujiFilm X100VI](https://idletroy.com/first-shots-with-fujifilm-x100vi/) `idletroy.com`
 - [Rumble @ The Ritz II](https://idletroy.com/rumble-the-ritz-ii/) `idletroy.com`<!-- BLOG-POST-LIST-PERSONAL:END -->
 <!-- BLOG-POST-LIST-TECHNICAL:START -->
-- [Fireworks Firepass With Kimi Is Fast Enough for Daily Work](https://ethantroy.dev/posts/fireworks-firepass-kimi-daily-workflows/) `ethantroy.dev`
-- [Testing exe.dev as an Agent Workbench](https://ethantroy.dev/posts/testing-exe-dev/) `ethantroy.dev`
-- [How to Train Your GRC Bro](https://ethantroy.dev/posts/how-to-train-your-grc-bro/) `ethantroy.dev`<!-- BLOG-POST-LIST-TECHNICAL:END -->
+- [Docker Group = Root: How I Upgraded Packages Without Sudo](https://ethantroy.dev/posts/docker-group-privilege-escalation/) `ethantroy.dev`
+- [Codex GRC Engineering](https://ethantroy.dev/projects/ai-ml/codex-grc-engineering/) `ethantroy.dev`
+- [Cerebras Fast Inference for Agent Workflows](https://ethantroy.dev/posts/cerebras-fast-inference/) `ethantroy.dev`<!-- BLOG-POST-LIST-TECHNICAL:END -->
 
 ### currently hacking on
 
