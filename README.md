@@ -15,9 +15,9 @@
 - [First Shots With FujiFilm X100VI](https://idletroy.com/first-shots-with-fujifilm-x100vi/) `idletroy.com`
 - [Rumble @ The Ritz II](https://idletroy.com/rumble-the-ritz-ii/) `idletroy.com`<!-- BLOG-POST-LIST-PERSONAL:END -->
 <!-- BLOG-POST-LIST-TECHNICAL:START -->
-- [Testing tldraw Diagrams](http://localhost:1314/posts/testing-tldraw-diagrams/) `ethantroy.dev`
-- [Lessons from an Unreluctant Manager. Everything I learned from my team.](http://localhost:1314/posts/lessons-from-an-unreluctant-manager/) `ethantroy.dev`
-- [Docker Group = Root: How I Upgraded Packages Without Sudo](http://localhost:1314/posts/docker-group-privilege-escalation/) `ethantroy.dev`<!-- BLOG-POST-LIST-TECHNICAL:END -->
+- [Testing tldraw Diagrams](https://ethantroy.dev/posts/testing-tldraw-diagrams/) `ethantroy.dev`
+- [Lessons from an Unreluctant Manager. Everything I learned from my team.](https://ethantroy.dev/posts/lessons-from-an-unreluctant-manager/) `ethantroy.dev`
+- [Docker Group = Root: How I Upgraded Packages Without Sudo](https://ethantroy.dev/posts/docker-group-privilege-escalation/) `ethantroy.dev`<!-- BLOG-POST-LIST-TECHNICAL:END -->
 
 ### currently hacking on
 
