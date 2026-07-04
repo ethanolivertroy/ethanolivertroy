@@ -41,14 +41,6 @@
 - [myctrl.tools](https://www.myctrl.tools/) — security compliance search and assessment preparation platform
 - [GRCLanker](https://ethantroy.dev/projects/compliance-engineering/grclanker/) — terminal-based compliance tool for GRC engineers
 
-### bioIDLE
-
-<a href="https://bioidle.dev/">
-  <img src="https://raw.githubusercontent.com/ethanolivertroy/ethanolivertroy/main/assets/bioidle-card.jpg" alt="bioIDLE" width="100%" />
-</a>
-
-**[bioIDLE](https://bioidle.dev/)** — AI-accelerated biology: open notebook for biophysics and biochem research
-
 ---
 
 **[Certs & badges →](CERTS.md)**
