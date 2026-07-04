@@ -12,8 +12,7 @@
 
 ### latest posts
 <!-- BLOG-POST-LIST-PERSONAL:START -->
-- [First Shots With FujiFilm X100VI](https://idletroy.com/first-shots-with-fujifilm-x100vi/) `idletroy.com`
-- [Rumble @ The Ritz II](https://idletroy.com/rumble-the-ritz-ii/) `idletroy.com`<!-- BLOG-POST-LIST-PERSONAL:END -->
+<!-- BLOG-POST-LIST-PERSONAL:END -->
 <!-- BLOG-POST-LIST-TECHNICAL:START -->
 - [Testing tldraw Diagrams](https://ethantroy.dev/posts/testing-tldraw-diagrams/) `ethantroy.dev`
 - [Lessons from an Unreluctant Manager. Everything I learned from my team.](https://ethantroy.dev/posts/lessons-from-an-unreluctant-manager/) `ethantroy.dev`
@@ -25,12 +24,6 @@
 - **Kubernetes security** — hardening AI workloads in K8s, runtime security, supply chain
 - **infrastructure & hardware** — going deeper on infra fundamentals and hardware security
 - **GRC engineering** — compliance automation, FedRAMP tooling, OSCAL (the day job)
-
-<p align="center">
-  <a href="https://open.spotify.com">
-    <img src="https://novatorem-rose-six.vercel.app" alt="Spotify Now Playing" width="350" />
-  </a>
-</p>
 
 ---
 
@@ -47,14 +40,6 @@
 - [hackidle.com](https://hackidle.com/) · [hackIDLE YouTube](https://www.youtube.com/@hackidle)
 - [myctrl.tools](https://www.myctrl.tools/) — security compliance search and assessment preparation platform
 - [GRCLanker](https://ethantroy.dev/projects/compliance-engineering/grclanker/) — terminal-based compliance tool for GRC engineers
-
-### bioIDLE
-
-<a href="https://bioidle.dev/">
-  <img src="https://raw.githubusercontent.com/ethanolivertroy/ethanolivertroy/main/assets/bioidle-card.jpg" alt="bioIDLE" width="100%" />
-</a>
-
-**[bioIDLE](https://bioidle.dev/)** — AI-accelerated biology: open notebook for biophysics and biochem research
 
 ---
 

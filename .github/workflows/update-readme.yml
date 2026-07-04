@@ -22,11 +22,10 @@ jobs:
         with:
           feed_list: >-
             https://hackidle.com/rss/,
-            https://idletroy.com/rss/,
             https://ethantroy.com/index.xml
           max_post_count: 3
           template: '$newline- [$title]($url) `$feedName`'
-          feed_names: "hackidle.com,idletroy.com,ethantroy.com"
+          feed_names: "hackidle.com,ethantroy.com"
           sort_order: "desc"
           remove_duplicates: true
           comment_tag_name: "BLOG-POST-LIST-PERSONAL"
