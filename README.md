@@ -12,8 +12,7 @@
 
 ### latest posts
 <!-- BLOG-POST-LIST-PERSONAL:START -->
-- [First Shots With FujiFilm X100VI](https://idletroy.com/first-shots-with-fujifilm-x100vi/) `idletroy.com`
-- [Rumble @ The Ritz II](https://idletroy.com/rumble-the-ritz-ii/) `idletroy.com`<!-- BLOG-POST-LIST-PERSONAL:END -->
+<!-- BLOG-POST-LIST-PERSONAL:END -->
 <!-- BLOG-POST-LIST-TECHNICAL:START -->
 - [Testing tldraw Diagrams](https://ethantroy.dev/posts/testing-tldraw-diagrams/) `ethantroy.dev`
 - [Lessons from an Unreluctant Manager. Everything I learned from my team.](https://ethantroy.dev/posts/lessons-from-an-unreluctant-manager/) `ethantroy.dev`
