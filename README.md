@@ -26,12 +26,6 @@
 - **infrastructure & hardware** — going deeper on infra fundamentals and hardware security
 - **GRC engineering** — compliance automation, FedRAMP tooling, OSCAL (the day job)
 
-<p align="center">
-  <a href="https://open.spotify.com">
-    <img src="https://novatorem-rose-six.vercel.app" alt="Spotify Now Playing" width="350" />
-  </a>
-</p>
-
 ---
 
 ## the IDLEs
