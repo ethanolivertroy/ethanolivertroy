@@ -15,8 +15,8 @@
 <!-- BLOG-POST-LIST-PERSONAL:END -->
 <!-- BLOG-POST-LIST-TECHNICAL:START -->
 - [Testing tldraw Diagrams](https://ethantroy.dev/posts/testing-tldraw-diagrams/) `ethantroy.dev`
-- [Lessons from an Unreluctant Manager. Everything I learned from my team.](https://ethantroy.dev/posts/lessons-from-an-unreluctant-manager/) `ethantroy.dev`
-- [Docker Group = Root: How I Upgraded Packages Without Sudo](https://ethantroy.dev/posts/docker-group-privilege-escalation/) `ethantroy.dev`<!-- BLOG-POST-LIST-TECHNICAL:END -->
+- [Codex GRC Engineering](https://ethantroy.dev/projects/ai-ml/codex-grc-engineering/) `ethantroy.dev`
+- [Paramify Podcast: GRC Engineering, FedRAMP 20x, and AI](https://ethantroy.dev/media/paramify-podcast-grc-engineering-fedramp-20x-ai/) `ethantroy.dev`<!-- BLOG-POST-LIST-TECHNICAL:END -->
 
 ### currently hacking on
 
