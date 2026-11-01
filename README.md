@@ -6,7 +6,9 @@
 
 ### latest posts
 <!-- BLOG-POST-LIST-PERSONAL:START -->
-- [Sum of Parts.](https://etroy.blog/posts/sum-of-parts/) `troy.blog`<!-- BLOG-POST-LIST-PERSONAL:END -->
+- [Get the Ball](https://ethantroy.com/posts/get-the-ball/) `ethantroy.com`
+- [Anxiety is just blocked energy.](https://ethantroy.com/posts/anxiety-blocked-energy/) `ethantroy.com`
+- [Supernote](https://ethantroy.com/posts/supernote/) `ethantroy.com`<!-- BLOG-POST-LIST-PERSONAL:END -->
 <!-- BLOG-POST-LIST-TECHNICAL:START -->
 - [Testing tldraw Diagrams](https://ethantroy.dev/posts/testing-tldraw-diagrams/) `ethantroy.dev`
 - [Codex GRC Engineering](https://ethantroy.dev/projects/ai-ml/codex-grc-engineering/) `ethantroy.dev`
