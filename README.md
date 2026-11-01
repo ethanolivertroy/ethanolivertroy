@@ -6,7 +6,7 @@
 
 ### latest posts
 <!-- BLOG-POST-LIST-PERSONAL:START -->
-<!-- BLOG-POST-LIST-PERSONAL:END -->
+- [Sum of Parts.](https://etroy.blog/posts/sum-of-parts/) `troy.blog`<!-- BLOG-POST-LIST-PERSONAL:END -->
 <!-- BLOG-POST-LIST-TECHNICAL:START -->
 - [Testing tldraw Diagrams](https://ethantroy.dev/posts/testing-tldraw-diagrams/) `ethantroy.dev`
 - [Codex GRC Engineering](https://ethantroy.dev/projects/ai-ml/codex-grc-engineering/) `ethantroy.dev`
