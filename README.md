@@ -1,14 +1,8 @@
 <a href="https://github.com/ethanolivertroy">
-  <img src="https://raw.githubusercontent.com/ethanolivertroy/ethanolivertroy/main/assets/hero.jpg" alt="hero" width="100%" />
+  <img src="https://raw.githubusercontent.com/ethanolivertroy/ethanolivertroy/main/assets/banner.png" alt="ethan troy — i just click buttons" width="100%" />
 </a>
 
-## Hey, I'm ET 🧪👽 and I just click buttons
-
-- `I just click buttons` has been my way to move forward through seemingly complex situations rather than overcomplicating them; it's my version of Dori's "just keep swimming", my HS wrestling coach's version of "just put on your pants one leg at a time" or whoever said "just put one foot in front of the other" (I think that was my drill sergeant)
-
-<p align="center">
-  <strong><a href="https://etroy.blog/">etroy.blog</a></strong> · <strong><a href="https://ethantroy.dev/">ethantroy.dev</a></strong> · <strong><a href="https://ethantroy.com/">ethantroy.com</a></strong> · <strong><a href="https://buttondown.com/ethantroy">newsletter</a></strong>
-</p>
+[troy.blog](https://troy.blog/) · [ethantroy.dev](https://ethantroy.dev/) · [ethantroy.com](https://ethantroy.com/) · [newsletter](https://buttondown.com/ethantroy)
 
 ### latest posts
 <!-- BLOG-POST-LIST-PERSONAL:START -->
@@ -18,29 +12,10 @@
 - [Codex GRC Engineering](https://ethantroy.dev/projects/ai-ml/codex-grc-engineering/) `ethantroy.dev`
 - [Paramify Podcast: GRC Engineering, FedRAMP 20x, and AI](https://ethantroy.dev/media/paramify-podcast-grc-engineering-fedramp-20x-ai/) `ethantroy.dev`<!-- BLOG-POST-LIST-TECHNICAL:END -->
 
-### currently hacking on
+### hacking on
+- offensive AI security
+- kubernetes security
+- infra & hardware
+- GRC engineering (day job)
 
-- **offensive AI security** — red teaming LLMs, adversarial ML, AI workload attack surfaces
-- **Kubernetes security** — hardening AI workloads in K8s, runtime security, supply chain
-- **infrastructure & hardware** — going deeper on infra fundamentals and hardware security
-- **GRC engineering** — compliance automation, FedRAMP tooling, OSCAL (the day job)
-
----
-
-## the IDLEs
-
-### hackIDLE
-
-<a href="https://github.com/hackIDLE">
-  <img src="https://raw.githubusercontent.com/ethanolivertroy/ethanolivertroy/main/assets/hackidle-card.jpg" alt="hackIDLE" width="100%" />
-</a>
-
-**[hackIDLE](https://github.com/hackIDLE)** — security research, compliance tooling, and open source hacking
-
-- [hackidle.com](https://hackidle.com/) · [hackIDLE YouTube](https://www.youtube.com/@hackidle)
-- [myctrl.tools](https://www.myctrl.tools/) — security compliance search and assessment preparation platform
-- [GRCLanker](https://ethantroy.dev/projects/compliance-engineering/grclanker/) — terminal-based compliance tool for GRC engineers
-
----
-
-**[Certs & badges →](CERTS.md)**
+[certs & badges →](CERTS.md)
