@@ -25,9 +25,12 @@ jobs:
             https://ethantroy.com/index.xml
           max_post_count: 3
           template: '$newline- [$title]($url) `$feedName`'
-          feed_names: "troy.blog,ethantroy.com"
+          # Labels come from item_exec, not feed_names: the action crashes on a feed
+          # when any item is dropped (null) and feed_names is set, losing all its posts.
+          # Photography entries are skipped; they aren't posts.
+          item_exec: "if (post.url.includes('/photography/')) { post = null } else { post.feedName = new URL(post.url).hostname }"
           sort_order: "desc"
-          remove_duplicates: true
+          remove_duplicates: false
           comment_tag_name: "BLOG-POST-LIST-PERSONAL"
           commit_message: "docs: update README with latest blog posts"
           committer_username: "readme-bot"
@@ -45,7 +48,7 @@ jobs:
           template: '$newline- [$title]($url) `$feedName`'
           feed_names: "medium/@ethanolivertroy,dev.to/ethantroy,ethantroy.dev"
           sort_order: "desc"
-          remove_duplicates: true
+          remove_duplicates: false  # true triggers the same null-item crash
           comment_tag_name: "BLOG-POST-LIST-TECHNICAL"
           commit_message: "docs: update README with latest blog posts"
           committer_username: "readme-bot"
