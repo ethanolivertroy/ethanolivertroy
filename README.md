@@ -8,7 +8,7 @@
 <!-- BLOG-POST-LIST-PERSONAL:START -->
 - [Get the Ball](https://ethantroy.com/posts/get-the-ball/) `ethantroy.com`
 - [Anxiety is just blocked energy.](https://ethantroy.com/posts/anxiety-blocked-energy/) `ethantroy.com`
-- [Supernote](https://ethantroy.com/posts/supernote/) `ethantroy.com`<!-- BLOG-POST-LIST-PERSONAL:END -->
+- [Thank You for Coming to Life](https://ethantroy.com/posts/thank-you-for-coming-to-life/) `ethantroy.com`<!-- BLOG-POST-LIST-PERSONAL:END -->
 <!-- BLOG-POST-LIST-TECHNICAL:START -->
 - [Testing tldraw Diagrams](https://ethantroy.dev/posts/testing-tldraw-diagrams/) `ethantroy.dev`
 - [Codex GRC Engineering](https://ethantroy.dev/projects/ai-ml/codex-grc-engineering/) `ethantroy.dev`
